@@ -4,7 +4,8 @@
       "Title": "Fun with your friend's Facebook and Tinder sessions",
       "Points": "488",
       "Date": "4 years ago",
-      "Comments": 55
+      "Comments": 55,
+      "Weakness": true
     },
     {
       "Link": "http://crockpotveggies.com/2015/02/09/automating-tinder-with-eigenfaces.html",
@@ -32,7 +33,8 @@
       "Title": "Stalking your Facebook friends on Tinder",
       "Points": "315",
       "Date": "2 years ago",
-      "Comments": 102
+      "Comments": 102,
+      "Weakness": true
     },
     {
       "Link": "https://techcrunch.com/2018/08/14/tinder-match-lawsuit/",

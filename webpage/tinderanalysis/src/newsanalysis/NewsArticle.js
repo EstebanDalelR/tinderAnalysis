@@ -9,6 +9,7 @@ class NewsArticle extends Component {
             <div className="newsArticle">
                 <a href={this.props.Article.Link}>
                     <h3>
+                {this.props.Article.Weakness? <p>|||!|||</p>:<p></p> }
                         {this.props.Article.Title}
                     </h3>
                 </a>
