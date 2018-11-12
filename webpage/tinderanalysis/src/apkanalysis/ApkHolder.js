@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import "./ApkHolder.css";
+
 class ApkHolder extends Component {
     render() { 
         return ( 

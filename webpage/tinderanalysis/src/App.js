@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
-import ApkHolder from './apkanalysis/Apkholder';
+
+import ApkHolder from './apkanalysis/ApkHolder';
 import NewsHolder from './newsanalysis/NewsHolder';
 import UxHolder from './uxanalysis/UxHolder';
+
+import "./App.css";
 
 class App extends Component {
   render() {
