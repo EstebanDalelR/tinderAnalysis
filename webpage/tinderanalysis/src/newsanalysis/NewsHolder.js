@@ -15,7 +15,9 @@ class NewsHolder extends Component {
     render() { 
         return ( 
             <div>
-                NEWS
+                <h2 className="SectionTitle">
+                    Tinder News
+                </h2>
                 {this.parseNews()}
                 <h6>
                     Tomado de <a href="https://news.ycombinator.com/">Hacker News</a>
