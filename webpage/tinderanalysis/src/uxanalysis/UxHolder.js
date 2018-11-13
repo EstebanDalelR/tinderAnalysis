@@ -1,21 +1,21 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
-import "./UxHolder.css";
+import './UxHolder.css'
 
 class UxHolder extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {}
-    }
-    render() {
-        return (
-            <div>
-                <h1 stripes="Striped Text">
-                    <span stripes="Striped Text">
+  constructor (props) {
+    super(props)
+    this.state = {}
+  }
+  render () {
+    return (
+      <div>
+        <h1 stripes='Striped Text'>
+          <span stripes='Striped Text'>
                     Striped Text
-                </span>
-                </h1>
-{/*                 <svg class="main-logo" viewBox="0 0 406 39">
+          </span>
+        </h1>
+        {/*                 <svg class="main-logo" viewBox="0 0 406 39">
                     <title>
                         Swipe Life
                         </title>
@@ -36,8 +36,8 @@ class UxHolder extends Component {
                         </g>
                     </g>
                 </svg > */}
-            </div >);
-    }
+      </div >)
+  }
 }
 
-export default UxHolder;
+export default UxHolder
