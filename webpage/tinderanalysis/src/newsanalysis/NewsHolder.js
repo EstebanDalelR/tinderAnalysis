@@ -14,7 +14,7 @@ class NewsHolder extends Component {
 
     render() { 
         return ( 
-            <div>
+            <div className="News">
                 <h2 className="SectionTitle">
                     Tinder News
                 </h2>
