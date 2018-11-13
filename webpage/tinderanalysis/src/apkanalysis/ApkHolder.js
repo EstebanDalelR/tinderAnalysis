@@ -3,13 +3,15 @@ import React, { Component } from 'react';
 import "./ApkHolder.css";
 
 class ApkHolder extends Component {
-    render() { 
-        return ( 
+    render() {
+        return (
             <div>
-                APK Holder
+                <h2 className="SectionTitle">
+                    APK Analysis
+                </h2>
             </div>
-         );
+        );
     }
 }
- 
+
 export default ApkHolder;
