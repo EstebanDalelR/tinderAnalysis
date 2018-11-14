@@ -3,7 +3,8 @@ import React, { Component } from 'react'
 import ApkHolder from './apkanalysis/ApkHolder'
 import NewsHolder from './newsanalysis/NewsHolder'
 import UxHolder from './uxanalysis/UxHolder'
-import General from './general'
+import UserStatistics from './userStatistics'
+import Bibliography from './bibliography'
 
 import './App.css'
 
@@ -19,7 +20,8 @@ class App extends Component {
         <ApkHolder />
         <NewsHolder />
         <UxHolder />
-        <General />
+        <UserStatistics />
+        <Bibliography />
       </div>
     )
   }
