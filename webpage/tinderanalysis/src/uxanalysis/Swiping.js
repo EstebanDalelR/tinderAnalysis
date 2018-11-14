@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
-import Swiping from './Swiping';
 
-class Body extends Component {
+class Swiping extends Component {
     state = {  }
     render() {
         return (
             <div>
-                <Swiping></Swiping>
+                Swipíng
             </div>
         );
     }
 }
 
-export default Body;
+export default Swiping;
