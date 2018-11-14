@@ -18,6 +18,15 @@
     font: 112.5%/1.45em georgia,serif;
 }
 
+.undertext{
+    font-weight: 400;
+    color: rgb(124, 124, 124);
+    font-size: 1.5em;
+    text-align: left;
+    margin: 0;
+    font-family: "ProximaNova", sans-serif;
+}
+
 .link{
     text-decoration: none;
     opacity: 0.8;

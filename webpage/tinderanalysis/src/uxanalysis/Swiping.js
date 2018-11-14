@@ -7,6 +7,7 @@ class Swiping extends Component {
         return (
             <div>
                 <h1 className="UXtitle">We Invented Swiping</h1>
+                <h6 className="undertext">Flick your way to a date.</h6>
                 <image
                     src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
                     width="100px"
