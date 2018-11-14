@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import swipe from "./swipe.jpg";
+import texting from "./texting.jpg";
 
 class Texting extends Component {
     render() {
@@ -12,14 +12,10 @@ class Texting extends Component {
                 <h6 className="undertext">
                     Openers: rejection or success. 
                 </h6>
-                <image
-                    src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
-                    width="100px"
-                    height="100px"
-                    style={{
-                        width: 100,
-                        height: 100
-                    }} />
+                <img
+                    src={texting}
+                    width="75%"
+                    />
                 <p className="paragraph">
                     <span>
                         Most people wouldn't confess to needing an app to meet a partner, it might make them seem... Unatractive. 

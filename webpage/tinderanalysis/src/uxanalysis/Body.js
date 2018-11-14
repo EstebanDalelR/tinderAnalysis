@@ -9,8 +9,8 @@ class Body extends Component {
         return (
             <div>
                 <Swiping />
-                <Privacy />
                 <Texting />
+                <Privacy />
             </div>
         );
     }

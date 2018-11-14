@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import swipe from "./swipe.jpg";
+import swipe from "./swipe.gif";
 
 class Swiping extends Component {
     render() {
@@ -12,14 +12,10 @@ class Swiping extends Component {
                 <h6 className="undertext">
                     Flick your way to a date.
                 </h6>
-                <image
-                    src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
-                    width="100px"
-                    height="100px"
-                    style={{
-                        width: 100,
-                        height: 100
-                    }} />
+                <img
+                    src={swipe}
+                    width="75%"
+                  />
                 <p className="paragraph">
                     <span>
                         It is common to hear nowadays about Swiping on people.
