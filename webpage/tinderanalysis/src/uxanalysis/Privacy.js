@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import swipe from "./swipe.jpg";
 
-class Swiping extends Component {
+class Privacy extends Component {
     render() {
         return (
             <div>
@@ -50,4 +50,4 @@ class Swiping extends Component {
     }
 }
 
-export default Swiping;
+export default Privacy;

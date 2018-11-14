@@ -17,3 +17,14 @@
     line-height: 1.6;
     font: 112.5%/1.45em georgia,serif;
 }
+
+.link{
+    text-decoration: none;
+    opacity: 0.8;
+    border-bottom: 2px solid rgb(253, 80, 104);
+    transition: border-bottom 150ms linear 0s;
+    color: rgb(0, 0, 0);
+}
+.link:hover{
+    border-bottom: 2px solid rgb(35, 157, 218);
+}
