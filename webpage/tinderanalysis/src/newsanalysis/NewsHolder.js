@@ -7,8 +7,8 @@ import allNews from './news.json'
 
 class NewsHolder extends Component {
   parseNews () {
-    return allNews.map(article => {
-      return <NewsArticle Article={article} />
+    return allNews.map((article, i)=> {
+      return <NewsArticle Article={article} key={i}/>
     })
   }
 
