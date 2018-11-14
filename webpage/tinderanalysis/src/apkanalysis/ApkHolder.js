@@ -7,7 +7,7 @@ class ApkHolder extends Component {
     return (
       <div>
         <h2 className='SectionTitle'>
-                    APK Analysis
+          APK Analysis
         </h2>
       </div>
     )
