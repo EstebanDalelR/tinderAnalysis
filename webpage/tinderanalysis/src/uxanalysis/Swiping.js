@@ -6,8 +6,12 @@ class Swiping extends Component {
     render() {
         return (
             <div>
-                <h1 className="UXtitle">We Invented Swiping</h1>
-                <h6 className="undertext">Flick your way to a date.</h6>
+                <h1 className="UXtitle">
+                    We Invented Swiping
+                </h1>
+                <h6 className="undertext">
+                    Flick your way to a date.
+                </h6>
                 <image
                     src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
                     width="100px"
@@ -36,12 +40,12 @@ class Swiping extends Component {
                 </span>
                 </p>
                 <p className="paragraph">
-                <span>
-                    For the user, this motion is comfortable, as most people are right handed and the  
+                    <span>
+                        For the user, this motion is comfortable, as most people are right handed and the
                         <a
-                        href="https://www.forbes.com/sites/jvchamary/2016/03/23/small-phone-ergonomics/#6c901f92290c"
-                        className="link">
-                          thumb reach
+                            href="https://www.forbes.com/sites/jvchamary/2016/03/23/small-phone-ergonomics/#6c901f92290c"
+                            className="link">
+                            thumb reach
                         </a> is enough to interact.
                     This profoundly improves usability times, as the user has a very low energy input, and might create muscle memory.
                     </span>

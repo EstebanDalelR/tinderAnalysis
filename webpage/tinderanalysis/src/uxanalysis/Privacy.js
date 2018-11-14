@@ -6,7 +6,12 @@ class Privacy extends Component {
     render() {
         return (
             <div>
-                <h1 className="UXtitle">We Invented Swiping</h1>
+                <h1 className="UXtitle">
+                    Friends of friends, but quietly.
+                </h1>
+                <h6 className="undertext">
+                    Reaching out of your social graph.
+                </h6>
                 <image
                     src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
                     width="100px"
@@ -17,33 +22,21 @@ class Privacy extends Component {
                     }} />
                 <p className="paragraph">
                     <span>
-                        It is common to hear nowadays about Swiping on people.
-                        Tinder invented this simple motion, swiping left or right to make the user "like" or "nope" the person presented on the screen.
-                        Although it is simple, it enabled the app to become a reference for simplicity.
+                        Most people wouldn't confess to needing an app to meet a partner, it might make them seem... Unatractive. 
+                        (Un)fortunately for them, there is Tinder. The app uses a simple algorithm that takes your facebook friends and evades them. 
+                        This might come from the fact that if we have someone on facebook, we probably know them and might have tried already.
                 </span>
                 </p>
                 <p className="paragraph">
                     <span>
-                        The swiping motion allows the user to explore the main app experience, getting to meet people.
-                        When two users have swiped right, meaning they "like" each other, a "it's a match" text shows.
-                        The user is then allowed to initiate a chat or keep swiping
-                        (<a
-                            href="https://www.businessinsider.com/tinder-changes-from-keep-playing-to-keep-swiping-2016-4"
-                            className="link">
-                            previously a "keep playing" text was displayed, and you could share the match news
-                        </a>).
-                </span>
-                </p>
-                <p className="paragraph">
-                <span>
-                    For the user, this motion is comfortable, as most people are right handed and the  
+                        The app also uses the current location, gender and age to offer possible matches. You select your range, preferred gender to match, and age block (18+).
+                        Other factors are not clear and might be intellectual property, but 
                         <a
-                        href="https://www.forbes.com/sites/jvchamary/2016/03/23/small-phone-ergonomics/#6c901f92290c"
-                        className="link">
-                          thumb reach
-                        </a> is enough to interact.
-                    This profoundly improves usability times, as the user has a very low energy input, and might create muscle memory.
-                    </span>
+                            href="https://www.sciencedirect.com/science/article/pii/S0191886917300272"
+                            className="link">
+                            according to scientists,
+                        </a> primary users are those open to hooking up.
+                </span>
                 </p>
             </div >
         );
