@@ -4,7 +4,6 @@ import React, { Component } from 'react';
 class NewsArticle extends Component {
     state = {}
     render() {
-        console.log(this.props)
         return (
             <div className="newsArticle">
                 <a 
