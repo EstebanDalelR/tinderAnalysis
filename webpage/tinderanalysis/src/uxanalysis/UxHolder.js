@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 
 import './UxHolder.css'
 import Title from './Title';
+import Body from './Body';
 
 class UxHolder extends Component {
     constructor(props) {
@@ -11,7 +12,8 @@ class UxHolder extends Component {
     render() {
         return (
             <div className="UX">
-                <Title/>
+                <Title />
+                <Body />
             </div >)
     }
 }
