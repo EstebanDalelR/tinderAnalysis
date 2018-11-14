@@ -2,15 +2,15 @@ import React, { Component } from 'react';
 
 import swipe from "./swipe.jpg";
 
-class Privacy extends Component {
+class Texting extends Component {
     render() {
         return (
             <div>
                 <h1 className="UXtitle">
-                    Friends of friends, but privately.
+                    Text me like one of your French Girls.
                 </h1>
                 <h6 className="undertext">
-                    Reaching out of your social graph.
+                    Openers: rejection or success. 
                 </h6>
                 <image
                     src="https://blog.photofeeler.com/wp-content/uploads/2017/12/if-you-swipe-right-on-tinder-do-they-know.jpg"
@@ -43,4 +43,4 @@ class Privacy extends Component {
     }
 }
 
-export default Privacy;
+export default Texting;
