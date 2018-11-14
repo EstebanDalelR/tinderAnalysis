@@ -4,17 +4,18 @@
 
 .newsArticle{
     background-color: whitesmoke;
-    margin: 3% 8%;
+    margin: 3% 7%;
     padding-top: 1%;
     border-radius: 100px
 }
+
   .newsTitle{
     font-family: "ProximaNova", sans-serif;
     font-size: 18px;
     font-weight: 800;
     max-height: 64.8px;
     letter-spacing: normal;
-    line-height: 1.24;
+    line-height: 1.14;
     box-sizing: border-box;
     display: inline;
     padding-right: 12px;
@@ -30,6 +31,6 @@
     margin: 1.75rem 0 0 0;
     font-family: "Proxima Nova Soft", sans-serif;
     font-size: 0.7rem;
-    line-height: 2.2rem;
+    line-height: 2.0rem;
     color: #9EABB3;
   }

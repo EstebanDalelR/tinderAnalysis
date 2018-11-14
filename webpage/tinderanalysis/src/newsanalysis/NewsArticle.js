@@ -12,7 +12,7 @@ class NewsArticle extends Component {
                 style={{textDecoration:"none"}}>
                     <h3 className="newsTitle">
                         {this.props.Article.Weakness ?
-                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="36" style={{backgroundColor:"white"}}>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="36" style={{backgroundColor:"rgba(255, 251, 251, 0.2)"}}>
                                 <defs>
                                     <radialGradient id="a" cy="100%" r="106.833%" fx="50%" fy="100%">
                                         <stop offset="0%" stop-color="#FF7854" />
