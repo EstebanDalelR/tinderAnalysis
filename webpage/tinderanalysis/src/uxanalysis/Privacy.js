@@ -7,7 +7,7 @@ class Privacy extends Component {
         return (
             <div>
                 <h1 className="UXtitle">
-                    Friends of friends, but privately.
+                    Friends of friends, but Privately.
                 </h1>
                 <h6 className="undertext">
                     Reaching out of your social graph.

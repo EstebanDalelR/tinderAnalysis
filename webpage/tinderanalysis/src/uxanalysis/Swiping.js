@@ -19,7 +19,7 @@ class Swiping extends Component {
                 <p className="paragraph">
                     <span>
                         It is common to hear nowadays about Swiping on people.
-                        Tinder invented this simple motion, swiping left or right to make the user "like" or "nope" the person presented on the screen.
+                        Tinder used and made popular this simple motion, swiping left or right to make the user "like" or "nope" the person presented on the screen.
                         Although it is simple, it enabled the app to become a reference for simplicity.
                 </span>
                 </p>
