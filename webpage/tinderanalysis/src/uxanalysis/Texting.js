@@ -15,6 +15,7 @@ class Texting extends Component {
                 <img
                     src={texting}
                     width="75%"
+                    alt="Funny tinder chat"
                     />
                 <p className="paragraph">
                     <span>

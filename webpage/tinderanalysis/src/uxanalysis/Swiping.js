@@ -15,6 +15,7 @@ class Swiping extends Component {
                 <img
                     src={swipe}
                     width="75%"
+                    alt="Swiping on tinder"
                   />
                 <p className="paragraph">
                     <span>

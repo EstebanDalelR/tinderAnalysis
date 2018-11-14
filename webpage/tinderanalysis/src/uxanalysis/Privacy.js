@@ -15,6 +15,7 @@ class Privacy extends Component {
                 <img
                     src={graph}
                     width="75%"
+                    alt="Social graph"
                     />
                 <p className="paragraph">
                     <span>
