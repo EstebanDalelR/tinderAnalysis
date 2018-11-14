@@ -5,8 +5,8 @@ class Title extends Component {
         return (
             <svg width="65%"  viewBox="0 0 685 110">
                     <desc>Section Title UX</desc>
-                    <g font-size="80" fill="url(#img2)" stroke="white" stroke-width="1" >
-                        <text x="0" class="text" y="90" font-style = "italic" fontWeight="Bold">About Tinder's UX</text>
+                    <g fontSize="80" fill="url(#img2)" stroke="white" strokeWidth="1" >
+                        <text x="0" className="text" y="90" fontStyle = "italic" fontWeight="Bold">About Tinder's UX</text>
                         <defs>
                             <pattern id="img2" patternUnits="userSpaceOnUse" width="100" height="100">
                                 <image 
