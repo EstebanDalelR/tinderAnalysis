@@ -26,7 +26,7 @@ class NewsArticle extends Component {
                     </h3>
                 </a>
                 <p className="lowerInfo">
-                    Fecha: {this.props.Article.Date} Puntos: {this.props.Article.Points}  Comentarios: {this.props.Article.Comments}
+                    Date: {this.props.Article.Date} Points: {this.props.Article.Points}  Comments: {this.props.Article.Comments}
                 </p>
             </div>
         );

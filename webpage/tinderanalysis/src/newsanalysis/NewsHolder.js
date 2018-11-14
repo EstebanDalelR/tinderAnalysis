@@ -20,7 +20,7 @@ class NewsHolder extends Component {
         </h2>
         {this.parseNews()}
         <h6>
-            Tomado de <a href='https://news.ycombinator.com/'>Hacker News</a>
+            Taken from <a href='https://news.ycombinator.com/'>Hacker News</a>
         </h6>
       </div>
     )
