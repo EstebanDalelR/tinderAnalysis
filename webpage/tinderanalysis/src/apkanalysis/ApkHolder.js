@@ -9,7 +9,7 @@ class ApkHolder extends Component {
         <h2 className='SectionTitle'>
           APK Analysis
         </h2>
-        Info taken from https://tinder.en.uptodown.com/android/old, http://downloadapk.net/Tinder.html and https://play.google.com/store/apps/details?id=com.tinder&hl=en
+        Info taken from https://www.androidapksbox.com/tinder/, https://tinder.en.uptodown.com/android/old, http://downloadapk.net/Tinder.html and https://play.google.com/store/apps/details?id=com.tinder&hl=en
       </div>
     )
   }
