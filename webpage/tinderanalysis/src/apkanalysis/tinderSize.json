@@ -1,90 +1,434 @@
-[ { "version": "V8.12.0", "size": "50.74MB" },
-  { "version": "V8.11.2", "size": "50.5MB" },
-  { "version": "V8.10.4", "size": "44.44MB" },
-  { "version": "V8.9.0", "size": "42.39MB" },
-  { "version": "V8.8.0", "size": "41.64MB" },
-  { "version": "V8.6.2", "size": "26.73MB" },
-  { "version": "V8.6.1", "size": "26.73MB" },
-  { "version": "V8.5.0", "size": "26.52MB" },
-  { "version": "V8.4.1", "size": "30.13MB" },
-  { "version": "V8.4.0", "size": "30.13MB" },
-  { "version": "V8.3.0", "size": "29.77MB" },
-  { "version": "V8.2.2", "size": "28.71MB" },
-  { "version": "V8.2.1", "size": "28.71MB" },
-  { "version": "V8.2.0", "size": "28.71MB" },
-  { "version": "V8.1.1", "size": "30.56MB" },
-  { "version": "V8.1.0", "size": "30.58MB" },
-  { "version": "V8.0.1", "size": "30.51MB" },
-  { "version": "V8.0.0", "size": "30.51MB" },
-  { "version": "V7.6.0", "size": "29.43MB" },
-  { "version": "V7.5.2", "size": "31.18MB" },
-  { "version": "V7.4.0", "size": "38.71MB" },
-  { "version": "V7.4.0", "size": "38.71MB" },
-  { "version": "V7.3.1", "size": "48.85MB" },
-  { "version": "V7.3.0", "size": "48.84MB" },
-  { "version": "V7.2.1", "size": "48.07MB" },
-  { "version": "V7.2.0", "size": "48.06MB" },
-  { "version": "V7.1.0", "size": "47.87MB" },
-  { "version": "V7.0.1", "size": "48MB" },
-  { "version": "V7.0.0", "size": "48MB" },
-  { "version": "V6.11.0", "size": "47.68MB" },
-  { "version": "V6.10.0", "size": "47.12MB" },
-  { "version": "V6.9.2", "size": "48.26MB" },
-  { "version": "V6.9.1", "size": "48.54MB" },
-  { "version": "V6.8.4", "size": "41.66MB" },
-  { "version": "V6.8.3", "size": "41.64MB" },
-  { "version": "V6.8.2", "size": "41.64MB" },
-  { "version": "V6.8.1", "size": "41.64MB" },
-  { "version": "V6.8.0", "size": "41.64MB" },
-  { "version": "V6.7.2", "size": "41.52MB" },
-  { "version": "V6.7.1", "size": "41.52MB" },
-  { "version": "V6.7.0", "size": "41.51MB" },
-  { "version": "V6.5.1", "size": "40.32MB" },
-  { "version": "V6.4.1", "size": "35.09MB" },
-  { "version": "V6.4.0", "size": "35.08MB" },
-  { "version": "V6.0.3", "size": "26.06MB" },
-  { "version": "V6.0.1", "size": "26.06MB" },
-  { "version": "V6.0.0", "size": "26.09MB" },
-  { "version": "V5.5.1", "size": "21.71MB" },
-  { "version": "V5.5.0", "size": "21.71MB" },
-  { "version": "V5.4.3", "size": "17.89MB" },
-  { "version": "V5.4.2", "size": "17.89MB" },
-  { "version": "V5.4.1", "size": "17.89MB" },
-  { "version": "V5.3.4", "size": "17.19MB" },
-  { "version": "V5.3.3", "size": "17.19MB" },
-  { "version": "V5.3.2", "size": "17.19MB" },
-  { "version": "V5.3.1", "size": "17.16MB" },
-  { "version": "V5.2.0", "size": "16.68MB" },
-  { "version": "V5.1.2", "size": "15.65MB" },
-  { "version": "V5.1.1", "size": "15.65MB" },
-  { "version": "V5.1", "size": "15.64MB" },
-  { "version": "V5.0.5", "size": "14.96MB" },
-  { "version": "V4.5.5", "size": "14.19MB" },
-  { "version": "V4.5.4", "size": "14.19MB" },
-  { "version": "V4.5.2", "size": "14.18MB" },
-  { "version": "V4.5.1", "size": "14.26MB" },
-  { "version": "V4.4.4", "size": "15.54MB" },
-  { "version": "V4.4.1", "size": "15.67MB" },
-  { "version": "V4.3.5", "size": "16.92MB" },
-  { "version": "V4.3.4", "size": "16.92MB" },
-  { "version": "V4.2.3", "size": "16.26MB" },
-  { "version": "V4.2.2", "size": "16.26MB" },
-  { "version": "V4.1.6", "size": "16.71MB" },
-  { "version": "V4.1.4", "size": "17.08MB" },
-  { "version": "V4.1.3", "size": "17.08MB" },
-  { "version": "V4.1.2", "size": "17.85MB" },
-  { "version": "V4.1.1", "size": "17.86MB" },
-  { "version": "V4.0.6", "size": "18.59MB" },
-  { "version": "V3.3.2", "size": "14.68MB" },
-  { "version": "V3.3.1", "size": "16.17MB" },
-  { "version": "V3.3.0", "size": "16.11MB" },
-  { "version": "V3.2.1", "size": "16.3MB" },
-  { "version": "V3.2.0", "size": "14.8MB" },
-  { "version": "V3.1.1", "size": "15.82MB" },
-  { "version": "V3.0.2", "size": "13.95MB" },
-  { "version": "V3.0.1", "size": "13.98MB" },
-  { "version": "V3.0", "size": "13.75MB" },
-  { "version": "V2.2.3", "size": "10.56MB" },
-  { "version": "V2.2.2", "size": "10.56MB" },
-  { "version": "V2.2.1", "size": "10.54MB" },
-  { "version": "V2.2.0", "size": "10.54MB" } ]
+[
+    {
+      "version": "V10.0.1",
+      "size": "38.1MB"
+    },
+    {
+      "version": "V10.0.0",
+      "size": "41.1MB"
+    },
+    {
+      "version": "V9.12.0",
+      "size": "70.2MB"
+    },
+    {
+      "version": "V9.11.2",
+      "size": "70.2MB"
+    },
+    {
+      "version": "V9.11.1",
+      "size": "70.2MB"
+    },
+    {
+      "version": "V9.10.1",
+      "size": "70.1MB"
+    },
+    {
+      "version": "V9.8.1",
+      "size": "70.0MB"
+    },
+    {
+      "version": "V9.7.0",
+      "size": "70.0MB"
+    },
+    {
+      "version": "V9.6.1",
+      "size": "69.9MB"
+    },
+    {
+      "version": "V9.5.0",
+      "size": "68.1MB"
+    },
+    {
+      "version": "V9.4.1",
+      "size": "68.1MB"
+    },
+    {
+      "version": "V9.4.0",
+      "size": "68.0MB"
+    },
+    {
+      "version": "V9.3.0",
+      "size": "66.3MB"
+    },
+    {
+      "version": "V9.2.0",
+      "size": "55.4MB"
+    },
+    {
+      "version": "V9.1.0",
+      "size": "52.4MB"
+    },
+    {
+      "version": "V9.0.0",
+      "size": "52.1MB"
+    },
+    {
+      "version": "V8.13.1",
+      "size": "51.8MB"
+    },
+    {
+      "version": "V8.13.0",
+      "size": "51.6MB"
+    },
+    {
+      "version": "V8.12.0",
+      "size": "50.74MB"
+    },
+    {
+      "version": "V8.11.2",
+      "size": "50.5MB"
+    },
+    {
+      "version": "V8.10.4",
+      "size": "44.44MB"
+    },
+    {
+      "version": "V8.9.0",
+      "size": "42.39MB"
+    },
+    {
+      "version": "V8.8.0",
+      "size": "41.64MB"
+    },
+    {
+      "version": "V8.6.2",
+      "size": "26.73MB"
+    },
+    {
+      "version": "V8.6.1",
+      "size": "26.73MB"
+    },
+    {
+      "version": "V8.5.0",
+      "size": "26.52MB"
+    },
+    {
+      "version": "V8.4.1",
+      "size": "30.13MB"
+    },
+    {
+      "version": "V8.4.0",
+      "size": "30.13MB"
+    },
+    {
+      "version": "V8.3.0",
+      "size": "29.77MB"
+    },
+    {
+      "version": "V8.2.2",
+      "size": "28.71MB"
+    },
+    {
+      "version": "V8.2.1",
+      "size": "28.71MB"
+    },
+    {
+      "version": "V8.2.0",
+      "size": "28.71MB"
+    },
+    {
+      "version": "V8.1.1",
+      "size": "30.56MB"
+    },
+    {
+      "version": "V8.1.0",
+      "size": "30.58MB"
+    },
+    {
+      "version": "V8.0.1",
+      "size": "30.51MB"
+    },
+    {
+      "version": "V8.0.0",
+      "size": "30.51MB"
+    },
+    {
+      "version": "V7.6.0",
+      "size": "29.43MB"
+    },
+    {
+      "version": "V7.5.2",
+      "size": "31.18MB"
+    },
+    {
+      "version": "V7.4.0",
+      "size": "38.71MB"
+    },
+    {
+      "version": "V7.4.0",
+      "size": "38.71MB"
+    },
+    {
+      "version": "V7.3.1",
+      "size": "48.85MB"
+    },
+    {
+      "version": "V7.3.0",
+      "size": "48.84MB"
+    },
+    {
+      "version": "V7.2.1",
+      "size": "48.07MB"
+    },
+    {
+      "version": "V7.2.0",
+      "size": "48.06MB"
+    },
+    {
+      "version": "V7.1.0",
+      "size": "47.87MB"
+    },
+    {
+      "version": "V7.0.1",
+      "size": "48MB"
+    },
+    {
+      "version": "V7.0.0",
+      "size": "48MB"
+    },
+    {
+      "version": "V6.11.0",
+      "size": "47.68MB"
+    },
+    {
+      "version": "V6.10.0",
+      "size": "47.12MB"
+    },
+    {
+      "version": "V6.9.2",
+      "size": "48.26MB"
+    },
+    {
+      "version": "V6.9.1",
+      "size": "48.54MB"
+    },
+    {
+      "version": "V6.8.4",
+      "size": "41.66MB"
+    },
+    {
+      "version": "V6.8.3",
+      "size": "41.64MB"
+    },
+    {
+      "version": "V6.8.2",
+      "size": "41.64MB"
+    },
+    {
+      "version": "V6.8.1",
+      "size": "41.64MB"
+    },
+    {
+      "version": "V6.8.0",
+      "size": "41.64MB"
+    },
+    {
+      "version": "V6.7.2",
+      "size": "41.52MB"
+    },
+    {
+      "version": "V6.7.1",
+      "size": "41.52MB"
+    },
+    {
+      "version": "V6.7.0",
+      "size": "41.51MB"
+    },
+    {
+      "version": "V6.5.1",
+      "size": "40.32MB"
+    },
+    {
+      "version": "V6.4.1",
+      "size": "35.09MB"
+    },
+    {
+      "version": "V6.4.0",
+      "size": "35.08MB"
+    },
+    {
+      "version": "V6.0.3",
+      "size": "26.06MB"
+    },
+    {
+      "version": "V6.0.1",
+      "size": "26.06MB"
+    },
+    {
+      "version": "V6.0.0",
+      "size": "26.09MB"
+    },
+    {
+      "version": "V5.5.1",
+      "size": "21.71MB"
+    },
+    {
+      "version": "V5.5.0",
+      "size": "21.71MB"
+    },
+    {
+      "version": "V5.4.3",
+      "size": "17.89MB"
+    },
+    {
+      "version": "V5.4.2",
+      "size": "17.89MB"
+    },
+    {
+      "version": "V5.4.1",
+      "size": "17.89MB"
+    },
+    {
+      "version": "V5.3.4",
+      "size": "17.19MB"
+    },
+    {
+      "version": "V5.3.3",
+      "size": "17.19MB"
+    },
+    {
+      "version": "V5.3.2",
+      "size": "17.19MB"
+    },
+    {
+      "version": "V5.3.1",
+      "size": "17.16MB"
+    },
+    {
+      "version": "V5.2.0",
+      "size": "16.68MB"
+    },
+    {
+      "version": "V5.1.2",
+      "size": "15.65MB"
+    },
+    {
+      "version": "V5.1.1",
+      "size": "15.65MB"
+    },
+    {
+      "version": "V5.1",
+      "size": "15.64MB"
+    },
+    {
+      "version": "V5.0.5",
+      "size": "14.96MB"
+    },
+    {
+      "version": "V4.5.5",
+      "size": "14.19MB"
+    },
+    {
+      "version": "V4.5.4",
+      "size": "14.19MB"
+    },
+    {
+      "version": "V4.5.2",
+      "size": "14.18MB"
+    },
+    {
+      "version": "V4.5.1",
+      "size": "14.26MB"
+    },
+    {
+      "version": "V4.4.4",
+      "size": "15.54MB"
+    },
+    {
+      "version": "V4.4.1",
+      "size": "15.67MB"
+    },
+    {
+      "version": "V4.3.5",
+      "size": "16.92MB"
+    },
+    {
+      "version": "V4.3.4",
+      "size": "16.92MB"
+    },
+    {
+      "version": "V4.2.3",
+      "size": "16.26MB"
+    },
+    {
+      "version": "V4.2.2",
+      "size": "16.26MB"
+    },
+    {
+      "version": "V4.1.6",
+      "size": "16.71MB"
+    },
+    {
+      "version": "V4.1.4",
+      "size": "17.08MB"
+    },
+    {
+      "version": "V4.1.3",
+      "size": "17.08MB"
+    },
+    {
+      "version": "V4.1.2",
+      "size": "17.85MB"
+    },
+    {
+      "version": "V4.1.1",
+      "size": "17.86MB"
+    },
+    {
+      "version": "V4.0.6",
+      "size": "18.59MB"
+    },
+    {
+      "version": "V3.3.2",
+      "size": "14.68MB"
+    },
+    {
+      "version": "V3.3.1",
+      "size": "16.17MB"
+    },
+    {
+      "version": "V3.3.0",
+      "size": "16.11MB"
+    },
+    {
+      "version": "V3.2.1",
+      "size": "16.3MB"
+    },
+    {
+      "version": "V3.2.0",
+      "size": "14.8MB"
+    },
+    {
+      "version": "V3.1.1",
+      "size": "15.82MB"
+    },
+    {
+      "version": "V3.0.2",
+      "size": "13.95MB"
+    },
+    {
+      "version": "V3.0.1",
+      "size": "13.98MB"
+    },
+    {
+      "version": "V3.0",
+      "size": "13.75MB"
+    },
+    {
+      "version": "V2.2.3",
+      "size": "10.56MB"
+    },
+    {
+      "version": "V2.2.2",
+      "size": "10.56MB"
+    },
+    {
+      "version": "V2.2.1",
+      "size": "10.54MB"
+    },
+    {
+      "version": "V2.2.0",
+      "size": "10.54MB"
+    }
+  ]
