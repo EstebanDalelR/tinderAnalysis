@@ -1,0 +1,40 @@
+.APKTitle{
+    background-image: url("./tindev.jpg");
+    padding: 8%;
+    margin: 0%;
+    font-size: 330%;
+    color: aliceblue;
+    background-clip: border-box;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+.cls-1{fill: #fff;}
+.cls-2{fill: none;}
+.cls-3{fill: #4c4c4c;}
+.logodev{
+    width: 25%;
+    margin:auto;
+    display: block;
+}
+.caption{
+    color: slategray;
+    font-size: 80%;
+    margin-top: 0%;
+}
+.caption a{
+    color: slategray;
+}
+.title{
+    color: #4A4A4A;
+    transition: color 0.3s ease;
+    font-size: 3.2rem;
+    line-height: 1.15em;
+    font-family: "Proxima Nova Soft", sans-serif;
+    text-rendering: geometricPrecision;
+    font-weight: 300;
+    text-align: left;
+    padding-left: 8%;
+    margin: 0%;
+}
