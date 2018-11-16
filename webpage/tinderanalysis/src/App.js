@@ -17,7 +17,7 @@ class App extends Component {
     let newBG;
     let BGchange = 0;
     if (!this.state.changer) {
-      this.setState({changer:true})
+      this.setState({ changer: true })
       setInterval(() => {
         BGchange++;
         newBG = "header" + (BGchange % 3);
@@ -44,6 +44,13 @@ class App extends Component {
         <UxHolder />
         <UserStatistics />
         <Bibliography />
+        <p>Project done by <a href="estebandalelr.co">
+          Esteban Dalel</a> 
+           and
+         <a href="jdguzmans.com">
+            Juan David Guzmán</a>
+          , entirely for academic goals. For the Mobile Apps class at 
+          <a href="uniandes.edu.co"> Universidad de los Andes</a>, given  by Mario Linares.</p>
       </div>
     )
   }
