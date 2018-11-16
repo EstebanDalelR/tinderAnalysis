@@ -13,7 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && rsync -r ./build/ /var/www/tinder.estebandalelr.co/html"
+    "deploy": "npm run build && rsync -r ./build/ /var/www/tinder.jdguzmans.com/html"
   },
   "eslintConfig": {
     "extends": "react-app"
