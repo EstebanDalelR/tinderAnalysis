@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
 
 import './ApkHolder.css'
-
-import Chart from './Chart';
+import APKSize from './APKSize';
 import Logo from "./Logo";
+import EventualConnectivity from './EventualConnectivity';
+
 
 class ApkHolder extends Component {
   render() {
@@ -13,7 +14,8 @@ class ApkHolder extends Component {
           APK Analysis
           <Logo />
         </h2>
-        <Chart />
+        <APKSize />
+        <EventualConnectivity />
       </div>
     )
   }

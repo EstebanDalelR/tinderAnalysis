@@ -38,3 +38,10 @@
     padding-left: 8%;
     margin: 0%;
 }
+.apktext{
+    font-size: 0.85em;
+    line-height: 1.7em;
+    color: #66696D;
+    font-family: "Proxima Nova Soft", sans-serif;
+    letter-spacing: 0.01rem;
+}
