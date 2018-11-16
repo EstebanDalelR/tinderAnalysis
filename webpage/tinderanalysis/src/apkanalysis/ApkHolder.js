@@ -5,12 +5,13 @@ import APKSize from './APKSize';
 import Logo from "./Logo";
 import EventualConnectivity from './EventualConnectivity';
 import PrivacyCode from './PrivacyCode';
+import Findbugs from './FindBugs';
 
 
 class ApkHolder extends Component {
   render() {
     return (
-      <div>
+      <div className="apkholder">
         <h2 className='APKTitle'>
           APK Analysis
           <Logo />
@@ -18,6 +19,7 @@ class ApkHolder extends Component {
         <APKSize />
         <EventualConnectivity />
         <PrivacyCode />
+        <Findbugs />
       </div>
     )
   }
