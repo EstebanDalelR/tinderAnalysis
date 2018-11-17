@@ -1,17 +1,19 @@
 import React, { Component } from 'react'
 
 import './ApkHolder.css'
-import APKSize from './APKSize';
-import Logo from "./Logo";
-import EventualConnectivity from './EventualConnectivity';
-import PrivacyCode from './PrivacyCode';
-import Findbugs from './FindBugs';
+import APKSize from './APKSize'
+import Logo from './Logo'
+import EventualConnectivity from './EventualConnectivity'
+import PrivacyCode from './PrivacyCode'
+import Findbugs from './FindBugs'
 import MultiThreading from './multiThreading'
+import Permissions from './permissions'
+import DataBinding from './dataBinding'
 
 class ApkHolder extends Component {
-  render() {
+  render () {
     return (
-      <div className="apkholder">
+      <div className='apkholder'>
         <h2 className='APKTitle'>
           APK Analysis
           <Logo />
@@ -21,6 +23,8 @@ class ApkHolder extends Component {
         <PrivacyCode />
         <Findbugs />
         <MultiThreading />
+        <Permissions />
+        <DataBinding />
       </div>
     )
   }

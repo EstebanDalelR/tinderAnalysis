@@ -24,7 +24,13 @@ class Chart extends Component {
           <p>A thread is created to track uncaught exceptions, it is later stoped.</p>
           <img src='resources/multiThreading3.png' />
         </div>
-
+        <div>
+          <h3>Using Handler & Looper to delay a View after a pause</h3>
+          <img src='resources/multiThreading4.png' />
+          <p>
+              On the lifecycle event of pause, there is a Handler created to post delay a View.
+          </p>
+        </div>
       </div>
     )
   }
