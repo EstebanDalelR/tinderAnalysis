@@ -6,7 +6,7 @@ import Logo from "./Logo";
 import EventualConnectivity from './EventualConnectivity';
 import PrivacyCode from './PrivacyCode';
 import Findbugs from './FindBugs';
-
+import MultiThreading from './multiThreading'
 
 class ApkHolder extends Component {
   render() {
@@ -20,6 +20,7 @@ class ApkHolder extends Component {
         <EventualConnectivity />
         <PrivacyCode />
         <Findbugs />
+        <MultiThreading />
       </div>
     )
   }
