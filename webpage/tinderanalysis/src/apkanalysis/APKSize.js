@@ -38,6 +38,9 @@ class APKSize extends Component {
         <APKAnalyzerimg size='68' version={'v9.7.0'} />
         <APKAnalyzerimg size='69.2' version={'v9.11.1'} />
         <APKAnalyzerimg size='43' version={'v10.0.1'} />
+        <p className='apktext'>
+          It's important to notice that most of the weight percentage of the app is held in the "res" folder, which holds the assets for various resolutions, and most of it is held in the "xxhdpi" folder, for high resolution devices. This expected and normal, but could be reduced using SVGs instead of images.
+        </p>
       </div>
     )
   }
