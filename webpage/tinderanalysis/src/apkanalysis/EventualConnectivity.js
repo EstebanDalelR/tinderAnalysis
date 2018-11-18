@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-import Portrait from './eventualconn/Portrait';
-import Animations from './eventualconn/Animations';
+import Portrait from './eventualconn/Portrait'
+import Animations from './eventualconn/Animations'
+import NoConn from './eventualconn/NoConn'
 
 class EventualConnectivity extends Component {
   render () {
@@ -9,6 +10,7 @@ class EventualConnectivity extends Component {
         <h2 className='title'>
           Eventual Connectivity strategies
         </h2>
+        <NoConn />
         <Portrait />
         <Animations />
       </div>

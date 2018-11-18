@@ -6,7 +6,7 @@ class Portrait extends Component {
       <div>
         <img
           src={require('./portrait.png')}
-          width='90%'
+          width='80%'
           alt='Code snippet showing forced portrait'
         />
         <p className='apktext'>
