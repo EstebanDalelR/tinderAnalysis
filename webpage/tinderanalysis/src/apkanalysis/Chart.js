@@ -13,7 +13,7 @@ class Chart extends Component {
                                 <img
                                         className="chart"
                                         src={chart}
-                                        width="80%"
+                                        width="90%"
                                 >
                                 </img>
                                 <p className="caption">
