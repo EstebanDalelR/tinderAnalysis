@@ -5,7 +5,7 @@ class Portrait extends Component {
     return (
       <div>
         <img
-          src={require('./eventualconn/portrait.png')}
+          src={require('./portrait.png')}
           width='90%'
           alt='Code snippet showing forced portrait'
         />
