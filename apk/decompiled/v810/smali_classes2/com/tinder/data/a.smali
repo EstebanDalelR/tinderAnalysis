@@ -1,0 +1,45 @@
+.class public interface abstract Lcom/tinder/data/a;
+.super Ljava/lang/Object;
+.source "ObservingProvider.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<T:",
+        "Ljava/lang/Object;",
+        ">",
+        "Ljava/lang/Object;"
+    }
+.end annotation
+
+.annotation runtime Ljava/lang/Deprecated;
+.end annotation
+
+
+# virtual methods
+.method public abstract get()Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()TT;"
+        }
+    .end annotation
+.end method
+
+.method public abstract observe()Lrx/e;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Lrx/e",
+            "<TT;>;"
+        }
+    .end annotation
+.end method
+
+.method public abstract update(Ljava/lang/Object;)V
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TT;)V"
+        }
+    .end annotation
+.end method

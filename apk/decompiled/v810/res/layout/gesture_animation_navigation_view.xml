@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.reactions.navigation.view.GrandGestureNavigationView android:id="@id/gesturesRoot" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:background="@null" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.tinder.reactions.navigation.view.ScrollListenerViewPager android:id="@id/gesturesViewPager" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <android.support.v7.widget.RecyclerView android:layout_gravity="bottom" android:id="@id/gesturesTabRecyclerView" android:background="@null" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/grand_gestures_tabs_height" />
+        </FrameLayout>
+    </LinearLayout>
+    <com.tinder.reactions.navigation.view.GrandGestureNavigationLoadingView android:id="@id/reactionsLoadingView" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/reactionsLoadingAnimation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:scaleType="fitCenter" android:scaleX="0.5" android:scaleY="0.5" />
+    </com.tinder.reactions.navigation.view.GrandGestureNavigationLoadingView>
+</com.tinder.reactions.navigation.view.GrandGestureNavigationView>

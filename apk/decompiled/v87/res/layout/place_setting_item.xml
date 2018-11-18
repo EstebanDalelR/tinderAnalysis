@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.views.CustomCheckBox android:textSize="@dimen/text_s" android:textColor="@color/text_dark" android:gravity="center_vertical" android:id="@id/placeItemCheckBox" android:paddingLeft="@dimen/item_indent_left" android:paddingRight="@dimen/item_indent_left" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxl" android:layout_marginTop="@dimen/margin_xxsmall" android:button="@null" style="@style/settings_group_item"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

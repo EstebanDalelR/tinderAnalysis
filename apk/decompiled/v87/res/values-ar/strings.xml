@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="about">نبذة عن</string>
+    <string name="about_you">نبذة عنك</string>
+    <string name="account_is_paused">حسابك الشخصي متوقفٌ مؤقتًا في الوقت الحالي. لمراسلة مُعجبيك، أعد تفعيل حسابك.</string>
+    <string name="account_paused">تم إيقاف الحساب مؤقتًا</string>
+    <string name="add_a_new_location">إضافة موقع جديد</string>
+    <string name="add_a_photo">إضافة صورة</string>
+    <string name="add_company">إضافة شركة</string>
+    <string name="add_email_rational_explanation">سوف يُستخدم هذا البريد الإلكتروني لمساعدتك على استعادة حسابك في حال نسيت كلمة المرور.</string>
+    <string name="add_email_to_secure_account">يُرجى إضافة بريد إلكتروني لتأمين حسابك</string>
+    <string name="add_job_title">إضافة مُسمى وظيفي</string>
+    <string name="add_password_to_secure_account">يُرجى إضافة كلمة مرور لتأمين حسابك</string>
+    <string name="add_school">إضافة مدرسة</string>
+    <string name="added_by_friend_modal_button_text">اعرف من سيخرج</string>
+    <string name="added_by_friend_to_group_modal_title">%1$s قام بإضافتك إلى مجموعة على Tinder Social</string>
+    <string name="added_by_friends_friend_text_1_friend">%1$s.</string>
+    <string name="added_by_friends_friend_text_2_friend">%1$s و %2$s.</string>
+    <string name="added_by_friends_friend_text_3_friend">%1$s و%2$s و%3$s.</string>
+    <string name="age_in_settings_detail">يستخدم Tinder هذه التفضيلات لاقتراح التوافقات. وبعض المقترحات المتوافقة قد لا تقع بين المعايير التي ترغب فيها.</string>
+    <string name="allow_group_add">تفاعل مع الأصدقاء</string>
+    <string name="allow_later_button">لاحقًا</string>
+    <string name="allow_location_button">السماح باستخدام الموقع</string>
+    <string name="allow_notification_button">السماح بالإشعارات</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    <string name="already_matched">تم التوافق بالفعل</string>
+    <string name="alt_auth_disclaimer_content">"نعمل دومًا على تحسين التطبيق حتى يكون أفضل للجميع. تعليقاتك وملاحظاتك مهمة وسوف تُؤخذ في الاعتبار عند تحديث التطبيق مستقبلًا.
+نعمل على إيجاد طرق أخرى لتسجيل الدخول في Tinder. ترقّبوا الجديد."</string>
+    <string name="alt_auth_disclaimer_title">شكرًا على إبداء رأيك</string>
+    <string name="and_all_the_features_of_tinder_plus">وجميع مزايا Tinder+</string>
+    <string name="apologies">معذرة!</string>
+    <string name="app_settings">إعدادات التطبيقإعدادات التطبيق</string>
+    <string name="are_you_sure_username_delete">هل تريد بالتأكيد حذف اسم المستخدم لديك؟</string>
+    <string name="ask_delete_account">حذف الحساب؟</string>
+    <string name="ask_logout">تسجيل الخروج؟</string>
+    <string name="ask_me">اسألني</string>
+    <string name="auth_fb_disclaimer_text">لا ننشر أي شيء على فيسبوك.</string>
+    <string name="auth_fb_disclaimer_title">نأخذ خصوصيتك على محمل الجد</string>
+    <string name="badges_verified">تم التحقق من الصحة</string>
+    <string name="be_chill">كن ممتعًا</string>
+    <string name="be_cool">كن رائعًا</string>
+    <string name="be_friendly">كن ودودًا</string>
+    <string name="be_nice">كن لطيفًا</string>
+    <string name="be_respectful">كن محترمًا</string>
+    <string name="before_chat_pointers">قبل الدردشة، إليك بعض الإرشادات...</string>
+    <string name="behave_around_here">أحسن السلوك هنا</string>
+    <string name="best_photo">أفضل صورة</string>
+    <string name="best_value">أفضل قيمة</string>
+    <string name="birthdate">تاريخ الميلاد</string>
+    <string name="blend">دمج</string>
+    <string name="blend_default">افتراضي</string>
+    <string name="block">إلغاء الإضافة كشريك</string>
+    <string name="blocked">تم إلغاء اختيار الشريك!</string>
+    <string name="boost_again">ادعم مرة أخرى</string>
+    <string name="boost_description">اجعل حسابك الشخصي الأفضل في منطقتك لمدة %1$d دقيقة للحصول على الكثير من المعجبين.</string>
+    <string name="boost_feature_description_upsell">أعطني %1$d مجانًا %2$s كل%3$s %4$s</string>
+    <string name="boost_feature_title">Tinder Boost</string>
+    <string name="boost_get_matches_faster">لا تقف في الطابور</string>
+    <string name="boost_intro_info_title_upsell">أنت تحصل على %1$d مجانًا %2$s كل%3$s %4$s</string>
+    <string name="boost_multiplier_views">المشاهدات</string>
+    <string name="boost_notification_title">انتهى الـ Boost</string>
+    <string name="boost_paywall_button_boost_me">ادعمني</string>
+    <string name="boost_paywall_perk_description">اجعل حسابك الشخصي الأفضل في منطقتك لمدة %1$d دقيقة للحصول على الكثير من المعجبين!</string>
+    <string name="boost_paywall_title">@string/boost_get_matches_faster</string>
+    <string name="boost_paywall_title_description">اجعل حسابك الشخصي الأفضل في منطقتك لمدة %1$d دقيقة للحصول على الكثير من المعجبين.</string>
+    <string name="boost_paywall_title_description_out_of_boost">حتى حصولك على boost التالية المجانية.</string>
+    <string name="boost_paywall_title_out_of_boost">لا يوجد Boosts!</string>
+    <string name="boost_perk_carousel_description">احصل على %1$d مجانًا %2$s كل%3$s %4$s</string>
+    <string name="boost_start_tool_tip">لا تتوقف عن السحب للحصول على أفضل النتائج!</string>
+    <string name="boost_summary_description">زادت نسبة مشاهدة حسابك الشخصي بما يصل إلى %1$s. إسحب لتعرف من شاهد حسابك الشخصي.</string>
+    <string name="boost_summary_info_description_upsell">يستمتع مستخدمو Tinder Plus بـ %1$d مجانًا %2$s كل %3$s %4$sوأكثر من ذلك</string>
+    <string name="boost_summary_info_title_upsell">احصل على %1$d مجانًا %2$s كل%3$s %4$s!</string>
+    <string name="boost_summary_title_non_plus">Boost ناجح</string>
+    <string name="boost_summary_title_plus">Boost ناجح!</string>
+    <string name="boost_title">لا تنتظر في الطابور</string>
+    <string name="boost_tool_tip">احصل على المزيد من المعجبين. جرّب Boost!</string>
+    <string name="boost_update_description">العديد من الأشخاص يُتابعون حسابك. واصل السحب للحصول على أفضل النتائج!</string>
+    <string name="boost_your_profile_get_likes">ادعم حسابك الشخصي للحصول على مزيد من الإعجابات!</string>
+    <string name="both_gender">رجال، نساء</string>
+    <string name="btn_main_matches">Button Main Matches</string>
+    <string name="btn_main_menu">Button Main Menu</string>
+    <string name="can_tell_us_how">هل يمكنك أن تخبرنا كيف نُحسن من أدائنا؟</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cannot_share_rec">تم تعطيل مشاركة هذا المستخدم</string>
+    <string name="cannot_superlike">لا تستطيع عمل Super Like. يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="chat_expired_details">Like للتوافق مع المحادثة ومتابعتها واحدة تلو الأخرى.</string>
+    <string name="chat_expired_title">انتهت صلاحية هذه الدردشة</string>
+    <string name="chat_expired_title_group">انتهت صلاحية دردشة المجموعة هذه.</string>
+    <string name="chat_gesture_announcement">جديد! المس لاستكشاف وإرسال التفاعلات!</string>
+    <string name="chat_gesture_announcement_reply">رد بإرسال أحد أشكال التفاعلات!</string>
+    <string name="chat_input_clear">مسح</string>
+    <string name="chat_input_gif">صورة Gif</string>
+    <string name="chat_input_gif_close">إغلاق صور Gif</string>
+    <string name="chat_input_hint">اكتب رسالة...</string>
+    <string name="chat_input_hint_gif">بحث عن صورة GIF...</string>
+    <string name="chat_input_reaction">تفاعُل</string>
+    <string name="chat_input_send">إرسال</string>
+    <string name="chat_message_image_description">رسالة بصورة Gif</string>
+    <string name="chat_message_like">إعجاب</string>
+    <string name="chat_message_liked">مُعجب</string>
+    <string name="chat_message_not_delivered">لم يتم التسليم</string>
+    <string name="chat_message_sent">تم الإرسال</string>
+    <string name="checkBox_females">Show Me: Women</string>
+    <string name="checkBox_males">Show Me: Men</string>
+    <string name="check_back_later">تحقّق لاحقًا</string>
+    <string name="choose_country">اختر بلداَ</string>
+    <string name="claim_username">اطلب اسم المستخدم الخاص بك</string>
+    <string name="close_chat">إغلاق</string>
+    <string name="code_sent">تم إرسال كود التحقق إلى %1$s</string>
+    <string name="com_accountkit_account_verified">تم التحقق من الحساب!</string>
+    <string name="com_accountkit_button_begin">بدء</string>
+    <string name="com_accountkit_button_cancel">إلغاء</string>
+    <string name="com_accountkit_button_confirm">تأكيد</string>
+    <string name="com_accountkit_button_continue">متابعة</string>
+    <string name="com_accountkit_button_edit">تعديل</string>
+    <string name="com_accountkit_button_log_in">تسجيل الدخول</string>
+    <string name="com_accountkit_button_next">التالي</string>
+    <string name="com_accountkit_button_ok">موافق</string>
+    <string name="com_accountkit_button_resend_code_in">إرسال رسالة SMS مجددًا خلال %1$d</string>
+    <string name="com_accountkit_button_resend_sms">إرسال رسالة SMS مجددًا</string>
+    <string name="com_accountkit_button_send">إرسال</string>
+    <string name="com_accountkit_button_send_code_in_call">تلقي مكالمة</string>
+    <string name="com_accountkit_button_send_code_in_call_details">تلقي الرمز في مكالمة صوتية</string>
+    <string name="com_accountkit_button_send_code_in_call_from_facebook_details">تلقي الرمز في مكالمة صوتية من فيسبوك</string>
+    <string name="com_accountkit_button_send_code_in_fb">تلقي رمز على فيسبوك</string>
+    <string name="com_accountkit_button_send_code_in_fb_details">سيصل الرمز كإشعار فيسبوك</string>
+    <string name="com_accountkit_button_start">بدء</string>
+    <string name="com_accountkit_button_start_over">إعادة المحاولة</string>
+    <string name="com_accountkit_button_submit">تقديم</string>
+    <string name="com_accountkit_check_email">فتح بريدك الإلكتروني</string>
+    <string name="com_accountkit_code_sent_to">يرجى التحقق من رقم هاتفك المحمول %1$s</string>
+    <string name="com_accountkit_confirmation_code_agreement">اضغط على %1$s لقبول &lt;a href=%2$s>شروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> فيسبوك.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">اضغط على %1$s لقبول &lt;a href=%2$s>شروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> و&lt;a href=%5$s>سياسة خصوصية&lt;/a> فيسبوك للتطبيق %6$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">اضغط على %1$s لقبول &lt;a href=%2$s>شروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> و&lt;a href=%5$s>سياسة خصوصية&lt;/a> و&lt;a href=%6$s>شروط خدمة&lt;/a> فيسبوك للتطبيق %7$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">اضغط على %1$s لقبول &lt;a href=%2$s>شروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> و&lt;a href=%5$s>سياسة خصوصية&lt;/a> و&lt;a href=%6$s>شروط خدمة&lt;/a> فيسبوك للتطبيق %7$s. &lt;a href=%8$s>تعرف على المزيد&lt;/a> عن كيفية التحقق من حسابك.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">اضغط على %1$s لقبول &lt;a href=%2$sشروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> و&lt;a href=%5$s>سياسة خصوصية&lt;/a> فيسبوك للتطبيق %6$s. &lt;a href=%7$s>تعرف على المزيد&lt;/a> عن كيفية التحقق من حسابك.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">اضغط على %1$s لقبول &lt;a href=%2$s>شروط&lt;/a> و&lt;a href=%3$s>سياسة بيانات&lt;/a> و&lt;a href=%4$s>استخدام ملفات تعريف ارتباط&lt;/a> فيسبوك. &lt;a href=%5$s>تعرف على المزيد&lt;/a> عن كيفية التحقق من حسابك.</string>
+    <string name="com_accountkit_confirmation_code_text">لم أتلق رمزًا</string>
+    <string name="com_accountkit_confirmation_code_title">أدخل الرمز</string>
+    <string name="com_accountkit_email_invalid">هذا البريد الإلكتروني غير صحيح. يرجى إعادة المحاولة.</string>
+    <string name="com_accountkit_email_loading_title">جارٍ التحقق من عنوان بريدك الإلكتروني...</string>
+    <string name="com_accountkit_email_login_retry_title">تأكيد على بريدك الإلكتروني</string>
+    <string name="com_accountkit_email_login_text">اضغط على %1$s لتلقي تأكيد بالبريد الإلكتروني من Account Kit من فيسبوك لمساعدتك على استخدام %2$s. لا تحتاج إلى حساب فيسبوك لاستخدامه. &lt;a href=%3$s>تعرف على كيفية استخدام فيسبوك لمعلوماتك&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">أدخل عنوان بريدك الإلكتروني</string>
+    <string name="com_accountkit_email_not_received">إعادة إرسال البريد الإلكتروني</string>
+    <string name="com_accountkit_email_verify_title">يرجى فتح البريد الإلكتروني وتأكيد عنوان بريدك الإلكتروني</string>
+    <string name="com_accountkit_enter_code_sent_to">أدخل الرمز الذي تم إرساله إلى %1$s.</string>
+    <string name="com_accountkit_error_title">حدثت مشكلة في النظام. يرجى إعادة المحاولة.</string>
+    <string name="com_accountkit_facebook_code_entry_title">يرجى إدخال الرمز من فيسبوك</string>
+    <string name="com_accountkit_logging_in">جارٍ تسجيل الدخول...</string>
+    <string name="com_accountkit_other_ways_to_get_code">طرق أخرى لتلقي الرمز:</string>
+    <string name="com_accountkit_phone_error_title">يرجى إدخال رقم هاتف محمول صالح.</string>
+    <string name="com_accountkit_phone_loading_title">جارٍ التحقق من رقمك...</string>
+    <string name="com_accountkit_phone_login_retry_title">يرجى تأكيد رقم هاتفك المحمول</string>
+    <string name="com_accountkit_phone_login_text">اضغط على %1$s للتحقق من حسابك باستخدام Account Kit برعاية فيسبوك. ولا تحتاج إلى حساب فيسبوك لاستخدام Account Kit. قد يتم إرسال رسالة SMS للتحقق من رقمك. ويتم تطبيق أسعار الرسائل وبيانات الاتصال. &lt;a href=%2$s>تعرف على كيفية استخدام فيسبوك لمعلوماتك&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">أدخل رقم هاتفك المحمول</string>
+    <string name="com_accountkit_phone_sending_code_on_fb_title">جارٍ إرسال الرمز على فيسبوك...</string>
+    <string name="com_accountkit_resend_check">يرجى التحقق من البريد الوارد لرسائل SMS</string>
+    <string name="com_accountkit_resend_email_text">إرسال بريد إلكتروني جديد</string>
+    <string name="com_accountkit_resend_title">في حالة عدم الحصول على رمز:</string>
+    <string name="com_accountkit_return_title">جارٍ العودة إلى %1$s...</string>
+    <string name="com_accountkit_sent_title">تم الإرسال!</string>
+    <string name="com_accountkit_success_title">تم التحقق!</string>
+    <string name="com_accountkit_toolbar_title">تسجيل الدخول إلى %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">تعذر علينا التحقق من الرمز، لذا يرجى إعادة المحاولة:</string>
+    <string name="com_accountkit_verify_title">جارٍ التحقق من الرمز...</string>
+    <string name="com_accountkit_voice_call_code_entry_title">يرجى إدخال رمزك من المكالمة الصوتية</string>
+    <string name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">أعجبك</string>
+    <string name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string name="com_facebook_loading">جارٍ التحميل…</string>
+    <string name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string name="com_facebook_send_button_text">إرسال</string>
+    <string name="com_facebook_share_button_text">مشاركة</string>
+    <string name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string name="common_android_wear_notification_needs_update_text">‏يحتاج %1$s إلى تحديث لتطبيق Android Wear.</string>
+    <string name="common_android_wear_update_text">‏لن يتم تشغيل %1$s ما لم تحدِّث تطبيق Android Wear.</string>
+    <string name="common_android_wear_update_title">‏تحديث Android Wear</string>
+    <string name="common_connections_body">نقارن بين أصدقائك على الفيس بوك وأصدقاء شركائك لعرض أي معارف مشتركة بينكم.</string>
+    <string name="common_google_play_services_api_unavailable_text">‏يتطلب %1$s خدمة أو أكثر من خدمات Google Play غير المتاحة حاليًا. الرجاء الاتصال بمطوّر البرامج للحصول على المساعدة.</string>
+    <string name="common_google_play_services_enable_button">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">تم الطلب عن طريق %1$s</string>
+    <string name="common_google_play_services_install_button">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_text_phone">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+    <string name="common_google_play_services_install_text_tablet">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر.</string>
+    <string name="common_google_play_services_invalid_account_title">حساب غير صالح</string>
+    <string name="common_google_play_services_needs_enabling_title">‏يتطلب أحد التطبيقات تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_network_error_text">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+    <string name="common_google_play_services_network_error_title">خطأ في الشبكة</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏يتطلب أحد التطبيقات تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_sign_in_failed_text">حدث خطأ أثناء تسجيل الدخول إلى الحساب المحدد. الرجاء اختيار حساب مختلف.</string>
+    <string name="common_google_play_services_sign_in_failed_title">أخفق تسجيل الدخول</string>
+    <string name="common_google_play_services_unknown_issue">‏حدثت مشكلة غير معروفة في خدمات Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">‏يعتمد %1$s على خدمات Google Play التي لا تتوافق مع جهازك. يمكنك الاتصال بالمصنِّع للحصول على مساعدة.</string>
+    <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_updating_title">‏يتم الآن تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجيل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول باستخدام Google</string>
+    <string name="company">الشركة</string>
+    <string name="complete_profile">هل هذه المعلومات صحيحة؟</string>
+    <string name="complete_profile_description">هناك بعض المعلومات التي لم يمكننا الحصول عليها من الفيس بوك. يُرجى الدخول أدناه للاستمرار.</string>
+    <string name="confirm">تأكيد</string>
+    <string name="confirm_group_end">سيُؤدي هذا إلى إنهاء المجموعة لك ولكل شخص مشارك فيها. سيتم فقدان جميع الإعجابات والدردشات الخاصة بالمجموعة بالكامل.</string>
+    <string name="connect">الربط</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="continue_swiping">استمر في السحب!</string>
+    <string name="control_your_profile_description">جعل أجزاء من معلومات ملف التعريف الخاص بك غير مرئية للآخرين</string>
+    <string name="control_your_profile_feature_one_title">لا تظهر عمري</string>
+    <string name="control_your_profile_feature_two_title">جعل مسافتي غير مرئية</string>
+    <string name="control_your_profile_title">التحكم في ملف التعريف الخاص بك</string>
+    <string name="controlla_boost_description_male_one">ادعم حسابك الشخصي مرة في %1$s!</string>
+    <string name="controlla_boost_description_male_other">ادعم حسابك الشخصي %1$d مرّات في %2$s!</string>
+    <string name="controlla_boost_description_male_two">ادعم حسابك الشخصي مرتيْن في %1$s!</string>
+    <string name="controlla_boost_title_female">ادعم حسابك الشخصي</string>
+    <string name="controlla_boost_title_male">احصل على معجبين بشكل أسرع</string>
+    <string name="controlla_get_more">احصل على المزيد</string>
+    <string name="controlla_gold_description">انظر من أعجب بك وأكثر!</string>
+    <string name="controlla_likes_description">احصل على إعجابات غير محدودة مع Tinder Plus!</string>
+    <string name="controlla_likes_title">ضاعف فرصك للالتقاء والتعارف</string>
+    <string name="controlla_out_of_likes_description">فتح إعجابات غير محدود، الآن!</string>
+    <string name="controlla_passport_description">جواز سفر للتعرّف على من تريد في أي مكان مع Tinder Plus!</string>
+    <string name="controlla_rewind_description">احصل على مرات رجوع غير محدودة مع Tinder Plus!</string>
+    <string name="controlla_rewind_title">كنت أقصد السحب لليمين</string>
+    <string name="controlla_superlikes_title">كن مميزًا مع Super Likes</string>
+    <string name="cool_got_it">حسنًا، فهمت!</string>
+    <string name="copied">تم النسخ</string>
+    <string name="create_group_at_friend_limit">يمكنك إضافة ما يصل إلى %1$d من الأصدقاء</string>
+    <string name="create_group_failed_to_find">فشل العثور على الأصدقاء</string>
+    <string name="create_group_going_out_with">تفاعل مع</string>
+    <string name="create_group_list_header">الأصدقاء على Tinder Social</string>
+    <string name="create_group_no_friends_ask_to_unlock">إضافة أصدقاء</string>
+    <string name="create_group_no_friends_unlocked">"لم يقم أي من أصدقائك 
+بفتح Tinder Social حتى الآن"</string>
+    <string name="create_group_search_hint">البحث عن الأصدقاء</string>
+    <string name="create_group_sheet_header">أنشئ مجموعة لتتفاعل مع الأصدقاء.</string>
+    <string name="create_group_sheet_header_choose">اختر 1 صديق على الأقل للمتابعة</string>
+    <string name="create_username_text">قم بإنشاء اسم المستخدم. شارك اسم المستخدم الخاص بك. تمتع بالتحدث مع أشخاص من كل أنحاء العالم على Tinder.</string>
+    <string name="crop_image_menu_crop">اقتصاص</string>
+    <string name="current_work">العمل الحالي</string>
+    <string name="days_remaining">الأيام المتبقية</string>
+    <string name="deactivate">تعطيل</string>
+    <string name="deactivate_account">تعطيل الحساب</string>
+    <string name="deactivate_confirmation">هل أنت واثق من أنك تود تعطيل حسابك؟</string>
+    <string name="deactivate_detail_text">إذا كنت تُفضل الاحتفاظ بحسابك الشخصي مع إخفائك عن الآخرين، فبإمكانك إيقاف حسابك مؤقتًا بدلًا عن ذلك. يُمكنك إغلاق ذلك في الإعدادات.</string>
+    <string name="delete">حذف</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="delete_confirm">هل أنت واثق من أنك تود حذف حسابك؟</string>
+    <string name="delete_confirm_suggest">يُرجى إخبارنا سبب مغادرتك</string>
+    <string name="delete_confirmation">هل أنت مُتأكد أنك تُرد حذف حسابك؟</string>
+    <string name="delete_my_account">حذف حسابي</string>
+    <string name="delete_my_account_with_arrow">حذف حسابي ></string>
+    <string name="delete_username">حذف اسم المستخدم</string>
+    <string name="deleted_acct_text">تم حذف حسابك على Tinder وجميع المعلومات المتعلقة به بنجاح.</string>
+    <string name="deleted_acct_title">تم حذف الحساب</string>
+    <string name="disable">تعطيل</string>
+    <string name="disconnect">فصل</string>
+    <string name="discount_paywall_perk_description_females">عرض خصم لمرة واحدة لإخفاء الإعلانات والحصول على جوائز غير محدودة</string>
+    <string name="discount_paywall_perk_description_males">عرض خصم لمرة واحدة للحصول على ضربات صحيحة غير محدودة و 5 حالات Super Likes في اليوم.</string>
+    <string name="discount_paywall_perk_title">خصم يصل إلى %1$d%% على Tinder Plus</string>
+    <string name="discover_new_people">اكتشف أشخاصاً جدداً</string>
+    <string name="discover_people_in">اكتشف أشخاصاً فياكتشف أشخاصاً في</string>
+    <string name="discovery_empty_view_button">تمكين خاصية الاكتشاف</string>
+    <string name="discovery_empty_view_subtext">قم بتمكين خاصية الاكتشاف كي تقابل أشخاصاً جدداً</string>
+    <string name="discovery_empty_view_text">بطاقتك خفيّة</string>
+    <string name="discovery_settings">إعدادات الاكتشاف</string>
+    <string name="distance">المسافة</string>
+    <string name="distance_details">إظهار المستخدمين الأقرب لديك</string>
+    <string name="do_not_be_a">لا تكن</string>
+    <string name="do_you_want_to_disable_likes_you">هل تُريد تعطيل \"أعجِب بك\"</string>
+    <string name="edit_info">تعديل البيانات</string>
+    <string name="edit_profile">تعديل الملف التعريفي</string>
+    <string name="edit_profile_action_swap_profile_picture">تبديل صورة الحساب الشخصي</string>
+    <string name="edit_profile_action_swap_selected_pictures">تبديل الصور المختارة</string>
+    <string name="emoji_closed_fist">✊</string>
+    <string name="emoji_eggplant">👿</string>
+    <string name="emoji_eggplant_key">evil</string>
+    <string name="emoji_party_popper_tada">🎉</string>
+    <string name="emoji_pray">🙏</string>
+    <string name="emoji_raised_hand">🙋</string>
+    <string name="empty_feed_message">لم نتمكّن من العثور على النشاط الاجتماعي لأيٍ من معجبيك. أعد المحاولة لاحقًا</string>
+    <string name="enable_tinder_social">فتح Tinder Social</string>
+    <string name="end">إنهاء</string>
+    <string name="enter_code_details">أدخل رمز التحقق في الرسالة النصية بالأسفل والتي تم إرسالها إلى جوالك</string>
+    <string name="enter_code_prompt">أدخل الكود</string>
+    <string name="error">خطأ</string>
+    <string name="error_body_couldnt_load_friends">حدث خطأ أثناء استرجاع أصدقائك من Facebook. الرجاء تكرار المحاولة.</string>
+    <string name="error_body_extend_group">حدث خطأ أثناء تمديد فترة مجموعتك. الرجاء تكرار المحاولة.</string>
+    <string name="error_body_group_creation">حدث خطأ أثناء إنشاء فريقك. الرجاء تكرار المحاولة.</string>
+    <string name="error_body_group_status">حدث خطأ أثناء تحديث حالة مجموعتك. الرجاء تكرار المحاولة.</string>
+    <string name="error_body_group_status_url">لا يمكن للحالات أن تحتوي على الارتباطات التشعبية. يرجى المحاولة مرة أخرى.</string>
+    <string name="error_body_leave_group">حدث خطأ أثناء إزالتك من مجموعتك. الرجاء تكرار المحاولة.</string>
+    <string name="error_boost_network">حدث خطأ في استخدام boost الخاص بك. يُرجى التحقق من اتصال الشبكة.</string>
+    <string name="error_email_app_not_found">نأسف، تعذر العثور على تطبيق البريد الإلكتروني.</string>
+    <string name="error_entering_code">أدخلت الكود الخطأ. يُرجى تكرار المحاولة</string>
+    <string name="error_fetching_bitmap">هناك مشكلة في الحصول على صورتك. يُرجى تكرار المحاولة</string>
+    <string name="error_fetching_code">حدث خطأ في الحصول على الكود الخاص بك. يُرجى تكرار المحاولة.</string>
+    <string name="error_getting_sku_details">هناك صعوبة في تحميل المنتجات من المتجر، يُرجى تكرار المحاولة لاحقاً.</string>
+    <string name="error_invalid_phone">رقم الهاتف غير صحيح. يُرجى تكرار المحاولة!</string>
+    <string name="error_loading">خطأ في التحميل</string>
+    <string name="error_loading_video_message">أووه، فشل الفيديو</string>
+    <string name="error_login">هناك مشكلة في تسجيل الدخول إلى تيندر. يُرجى تكرار المحاولة.</string>
+    <string name="error_login_with_error_code">حدثت مشكلة أثناء التسجيل في Tinder. يُرجى إعادة المحاولة. (%1$d)</string>
+    <string name="error_mute_notification">لا يمكن كتم صوت الدردشة</string>
+    <string name="error_network_missing">اتصال الشبكة غير متاح. برجاء التحقق من أن لديك اتصال بالبيانات وأعد المحاولة.</string>
+    <string name="error_pic_delete">فشل التعرف على الصورة، يُرجى تكرار المحاولة.</string>
+    <string name="error_pic_main">فشل تحديث صورة الملف التعريفي، يُرجى تكرار المحاولة.</string>
+    <string name="error_pic_swap">فشل تبديل الصورة، يُرجى تكرار المحاولة.</string>
+    <string name="error_profile_info_update">وقع خطأ في تحديث معلومات الملف التعريفي. يُرجى تكرار المحاولة.</string>
+    <string name="error_profile_update">حدث خطأ أثناء تحديث ملف التعريف الخاص بك. الرجاء تكرار المحاولة.</string>
+    <string name="error_reclaim_purchase">تعذر استعادة المشتريات</string>
+    <string name="error_report_notification">تعذّر الإبلاغ عن مُستخدم</string>
+    <string name="error_title_disband_group">تعذر إنهاء مجموعة</string>
+    <string name="error_title_extend_group">تعذر تمديد فترة المجموعة</string>
+    <string name="error_title_group_creation">تعذر إنشاء مجموعة</string>
+    <string name="error_title_group_status">تعذر تحديث الحالة</string>
+    <string name="error_title_leave_group">تعذر ترك المجموعة</string>
+    <string name="error_unmatch_notification">تعذّر إلغاء الإعجاب بمستخدم</string>
+    <string name="error_unmute_notification">لا يمكن إلغاء كتم صوت الدردشة</string>
+    <string name="everything_you_love_from_tinder_plus">"وكل شيء تُحبه
+ من Tinder Plus"</string>
+    <string name="exit_survey_are_you_sure">هل أنت متأكد؟</string>
+    <string name="exit_survey_delete_confirm_body">"إذا قمت بحذف حسابك، فسوف تفقد حسابك الشخصي ورسائلك وصورك ومعجبيك بشكلٍ دائم. لا يمكن التراجع عن هذا الإجراء.
+
+إذا كنت تُفضل الاحتفاظ بحسابك الشخصي مع إخفائك عن الآخرين، فبإمكانك إخفاء حسابك بدلًا عن ذلك. يُمكنك إغلاق ذلك في الإعدادات.
+
+هل أنت واثق من أنك تُريد حذف حسابك؟"</string>
+    <string name="exit_survey_dislike_bad_experience">واجهت تجربة سيئة على Tinder</string>
+    <string name="exit_survey_dislike_not_met_anybody">لم أقابل أي شخص من Tinder</string>
+    <string name="exit_survey_dislike_prefer_other_apps">أفضِّل تطبيقات تواصل اجتماعي أخرى</string>
+    <string name="exit_survey_dont_like">لا أحب Tinder</string>
+    <string name="exit_survey_feedback_app_crashes">كثيرًا ما يتعطل التطبيق</string>
+    <string name="exit_survey_feedback_matches_gone">اختفى المعجبون</string>
+    <string name="exit_survey_feedback_no_matches">لا أحصل على معجبين إطلاقًا</string>
+    <string name="exit_survey_feedback_nobody_to_swipe">لا يوجد أحد لكي أسحب عليه</string>
+    <string name="exit_survey_feedback_repeat_people">أرى أشخاصًا أكثر من مرة</string>
+    <string name="exit_survey_fresh_start">أريد بداية منعشة</string>
+    <string name="exit_survey_fresh_start_info_sync">لا تتم مزامنة معلومات حسابي</string>
+    <string name="exit_survey_fresh_start_reset_matches">أريد إعادة تعيين المعجبين بي</string>
+    <string name="exit_survey_just_delete">حذف فقط</string>
+    <string name="exit_survey_met_someone">قابلت شخصًا ما</string>
+    <string name="exit_survey_need_break">أحتاج أن آخذ راحة من Tinder</string>
+    <string name="exit_survey_pause_confirm_body">تحتاج إلى استراحة أحيانًا. سوف يكون معجبوك ورسائلك في انتظارك عند عودتك. اختر الوقت الذي تُريد فيه إعادة تفعيل حسابك.</string>
+    <string name="exit_survey_something_broken">حدث عطل ما / غير ذلك</string>
+    <string name="exit_survey_something_broken_v2">حدث خطأ ما</string>
+    <string name="exit_survey_thanks_for_feedback_deactivate">شكرًا على إبداء رأيك. هل أنت واثق من أنك تُريد تعطيل حسابك؟</string>
+    <string name="exit_survey_thanks_for_feedback_delete">شكرًا على ملاحظاتك. هل أنت متأكد أنك تريد حذف حسابك؟</string>
+    <string name="exit_survey_thanks_for_feedback_pause">شكرًا على إبداء رأيك. هل أنت واثق من أنك تود إيقاف حسابك مؤقتًا؟</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_rewind_description">إرجاع</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="expired_match">انتهت صلاحية المباراة</string>
+    <string name="extra_super_like_feature_title">ضربات Super Likes فائقة</string>
+    <string name="extra_super_likes_title">احصل على المزيد من Super Likes</string>
+    <string name="facebook_missing_permissions">يطلب تيندر منك توفير أذونات إضافية على الفيس بوك من أجل إنشاء أو استخدام حساب على تيندر. تُستخدم هذه المعلومات لإنشاء ملفات تعريف أكثر شمولاً والتحقق من الصحة وتوفير الدعم. يطلب تيندر منك توفير أذونات إضافية على الفيس بوك من أجل إنشاء أو استخدام حساب على تيندر. تُستخدم هذه المعلومات لإنشاء ملفات تعريف أكثر شمولاً والتحقق من الصحة وتوفير الدعم.</string>
+    <string name="facebook_prompt">سجّل الدخول من خلال الفيس بوك</string>
+    <string name="failed_delete">فشل حذف الحساب.</string>
+    <string name="failed_msg">فشل الإرسال، المس لتكرار المحاولة.</string>
+    <string name="failed_save_job">فشل في حفظ الوظيفة</string>
+    <string name="failed_save_school">فشل في حفظ المدارس</string>
+    <string name="failed_to_enable_tinder_social">فشل في تمكين Tinder Social، كرر المحاولة</string>
+    <string name="failed_to_like">فشل في رسالة الإعجاب</string>
+    <string name="failed_to_match_with">تعذّر الإعجاب بـ %1$s</string>
+    <string name="failed_to_unlike">فشل في رسالة إلغاء الإعجاب</string>
+    <string name="failed_update_profile">فشل تحديث الملف التعريفي.</string>
+    <string name="fb_auth_fixes">"تيندر يواجه مشكلة في تسجيل الدخول بواسطة الفيس بوك. إليك بعض الأسباب الحتملة: 
+
+ ربما تكون بيانات تسجيلك على تطبيق الفيس بوك قد نفدت صلاحيتها. تحقق من صحتها. 
+
+ ساعة الهاتف غير صحيحة، وربما يؤثر ذلك على عملية الاعتماد التي يجريها الفيس بوك. إن كان ذلك هو الوضع، اضبط الساعة.
+
+ لديك تطبيق المسنجر ولكن ليس تطبيق الفيس بوك. لذا فتنزيل تطبيق الفيس بوك قد يساعد في حل المشكلة."</string>
+    <string name="fb_login_protocol_scheme">fb464891386855067</string>
+    <string name="feed_info_detail_connected_instagram">الربط بإنستقرام</string>
+    <string name="feed_info_detail_instagram">منشور على إنستقرام</string>
+    <string name="feed_info_detail_new_match">مُعجب جديد!</string>
+    <string name="feed_info_detail_profile_add_photo">أضاف/أضافت صورة</string>
+    <string name="feed_info_detail_spotify_new_anthem">ضبط أغنية</string>
+    <string name="feed_info_detail_spotify_top_artists">ضبط قائمة أفضل المُطربين على Spotify</string>
+    <string name="feed_instagram_loading_error_message">الصورة غير متوفرة</string>
+    <string name="feed_instagram_loading_video_error_message">الصورة غير متوفرة</string>
+    <string name="feed_settings">إعدادات الموجز</string>
+    <string name="feed_share_in_feed">مشاركة في الموجز</string>
+    <string name="feed_share_my_feed">مشاركة مُوجزي</string>
+    <string name="female">أنثى</string>
+    <string name="females">النساء</string>
+    <string name="finding_people">العثور على أشخاص بالقرب منك...</string>
+    <string name="fling_reaction_instruction">اسحب لأعلى</string>
+    <string name="fresh_start">بداية جديدة</string>
+    <string name="fresh_start_subtitle">ساعدنا على تحسين تجربة Tinder. لماذا تُريد البدء من جديد؟</string>
+    <string name="friend_footer_dont_see">لا ترى من تبحث عنه؟</string>
+    <string name="friend_footer_your_friends_on_tinder_social">"يمكن لأصدقائك على Tinder Social دعوتك للخروج.
+ انتقل إلى إعدادات لتغيير هذه الأذونات."</string>
+    <string name="friend_item_in_a_group">في مجموعة</string>
+    <string name="gcm_fallback_notification_channel_label">متنوعة</string>
+    <string name="gender">النوع</string>
+    <string name="generic_restore_failure">لم نتمكن من استعادة عملية الشراء الخاصة بك. يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="generic_restore_success_message">المُشتريات المُستعادة</string>
+    <string name="get_boosts">احصل على Boosts</string>
+    <string name="get_boosts_to_increase_your_matches">احصل على Boosts لزيادة مُعجبيك!</string>
+    <string name="get_more_boosts">احصل على Boosts أكثر</string>
+    <string name="get_started">ابدأ</string>
+    <string name="get_swiping">هيا نبدأ السحب</string>
+    <string name="get_tinder_gold">احصل على Tinder Gold</string>
+    <string name="get_tinder_plus">احصل على Tinder Plus</string>
+    <string name="gifs_prompt">بحث عن GIPHY...</string>
+    <string name="give_feedback">أخبرنا بملاحظاتك</string>
+    <string name="go_back_button">عودة</string>
+    <string name="go_to_location">اذهب إلى %1$s</string>
+    <string name="going_out_add_status_prompt_description_v1">ما الذي تُريد فعله الليلة؟</string>
+    <string name="going_out_clear_status">حذف حالتي</string>
+    <string name="going_out_empty">ماذا تُريد أن تفعل؟</string>
+    <string name="going_out_empty_list_prompt">أخبر معجبيك بما تود القيام به، تعرّف على من يُريدون الالتقاء.</string>
+    <string name="going_out_empty_list_title">التقوا معًا هذه الليلة</string>
+    <string name="going_out_empty_list_with_status_prompt">سوف تصلك الإعجابات قريبًا.</string>
+    <string name="going_out_empty_list_with_status_title">انتظر قليلًا!</string>
+    <string name="going_out_im_up_for">أنا مستعد لـ…</string>
+    <string name="going_out_list_title_v2">معجبوك مستعدون لـ...</string>
+    <string name="going_out_me">أنا</string>
+    <string name="going_out_quick_message">"%1$s يبدو ممتعاً! فيما 
+تُفكر؟ %2$s"</string>
+    <string name="going_out_quick_message_respond_to">رد على %1$s بـ...</string>
+    <string name="going_out_status_bubble">جاهز لـ %1$s هذه الليلة</string>
+    <string name="going_out_tap_to_edit">المس للتعديل</string>
+    <string name="going_out_tonight_v1">الليلة</string>
+    <string name="going_out_tooltip_matches_up_tonight_v1">إطّلع على ما سيفعله معجبوك هذه الليلة.</string>
+    <string name="going_out_yesterday">أمس</string>
+    <string name="gold_unlocked">Tinder Gold مفتوح</string>
+    <string name="good_guys_win">الأخلاق والاحترام أساس العلاقات</string>
+    <string name="got_it">فهمت</string>
+    <string name="got_it_action">فهمتها!</string>
+    <string name="group_custom_status_hint">اكتب شيئا...</string>
+    <string name="group_disband_confirm">هل أنت متأكد أنك تريد إنهاء هذه المجموعة؟</string>
+    <string name="group_expired_title">انتهت صلاحية المجموعة</string>
+    <string name="group_going_out_text_tonight_bottom_text">"تفاعل مع الأصدقاء
+"</string>
+    <string name="group_going_out_tonight_bottom_text">إعجاب متبادل مع مجموعات من الأصدقاء القريبين.</string>
+    <string name="group_its_too_early_body_text">"أخبرنا مع من أنت لبدء التنقل
+بين مجموعات أخرى من الأصدقاء ستخرج الليلة!"</string>
+    <string name="group_its_too_early_button_text">سأخرج</string>
+    <string name="group_its_too_early_footer_text">"سيكون بمقدور أصدقائك على Tinder Social
+العثور عليك ودعوتك للخروج معاً"</string>
+    <string name="group_its_too_early_header_text">تفاعل مع الأصدقاء</string>
+    <string name="group_last_active">نشط منذ %1$s</string>
+    <string name="group_leave_confirm">هل أنت متأكد أنك تريد ترك هذه المجموعة؟</string>
+    <string name="group_modal_in_a_group_with">أنت في مجموعة مع</string>
+    <string name="group_status_button_close">إغلاق</string>
+    <string name="group_status_button_done">تم</string>
+    <string name="group_status_could_not_load">تعذر تحميل حالات المجموعة</string>
+    <string name="group_tool_tip_text">الآن يمكنك أن تلتقي مع أناس للخروج \\الليلة nمع Tinder Social! %1$s</string>
+    <string name="groups_name">%1$s و %2$d أصدقاء</string>
+    <string name="groups_name_duo">%1$s و %2$s</string>
+    <string name="groups_new_match">توافقت مجموعتك مع %1$s</string>
+    <string name="groups_updated_status">"%1$s قام بتحديث الحالة إلى 
+ “%2$s”"</string>
+    <string name="hard_work_fixing_issue">"نبذل قصارى جهدنا لحل هذه المشكلة!
+
+ملاحظتك تُساعدنا على جعل تجربتك أفضل، نشكرك مرة أخرى!"</string>
+    <string name="have_fun">استمتع</string>
+    <string name="help_and_support">التعليمات والدعم</string>
+    <string name="help_reporting">ساعدنا على مساعدتك من خلال الإبلاغ</string>
+    <string name="help_us">"ساعدنا على أن نجعل من تيندر تجربة أفضل للجميع.
+"</string>
+    <string name="hey_cutie">أهلًا يا جميلة!</string>
+    <string name="hide_ads_description">الاستمتاع بتجربة مجانية تماماً عن الإعلانات.</string>
+    <string name="hide_ads_feature_title">إخفاء الإعلانات</string>
+    <string name="hide_ads_title">إخفاء الإعلانات</string>
+    <string name="hide_my_account">إخفاء حسابي</string>
+    <string name="hours_ago">منذ %1$s ساعة</string>
+    <string name="hours_left">%1$d ساعة متبقية!</string>
+    <string name="how_would_you_rate">كيف تقيم تيندر؟</string>
+    <string name="i_am">أنا</string>
+    <string name="i_don_t_have_facebook">ليس عندي فيسبوك</string>
+    <string name="identify_as">أنا:أنا:</string>
+    <string name="if_you_were_a_fruit_youd_be_a_fineapple">"إذا كنتِ فاكهة، فقد تكوني
+تفاحة جميلة…"</string>
+    <string name="include_me_in_search">أدرجني في البحث عن</string>
+    <string name="incorrect_place">Wasn’t At This Place</string>
+    <string name="instagram">إنستقرام</string>
+    <string name="instagram_account_in_use_body">تم بالفعل ربط حسابك على الإنستغرام بملفك الشخصي على تيندر. يُرجى فصله إن أردت استخدامه هنا.</string>
+    <string name="instagram_account_in_use_title">حساب الإنستغرام قيد الاستخدام</string>
+    <string name="instagram_auth_title">عرض صوري على الإنستغرام</string>
+    <string name="instagram_confirm_disconnect_body">صورك على الإنستغرام ستُخذف من ملفك الشخصي في تيندر.</string>
+    <string name="instagram_confirm_disconnect_title">فصل الإنستغرام</string>
+    <string name="instagram_connect_error_body">لا يمكننا حالياً الربط بحسابك على الإنستغرام. يُرجى تكرار المحاولة.</string>
+    <string name="instagram_connect_error_title">لا يمكن الربط بالإنستغرام</string>
+    <string name="instagram_disconnect_error_body">لا يمكننا حالياً فصل حسابك على الإنستغرام. يُرجى تكرار المحاولة.</string>
+    <string name="instagram_disconnect_error_title">لا يمكن فصل الإنستغرام</string>
+    <string name="instagram_login">الربط بالإنستغرام</string>
+    <string name="instagram_logout">فصل</string>
+    <string name="instagram_photos_title">صور الإنستغرام</string>
+    <string name="instagram_share">مشاركة صورك على الإنستغرام أيضاً</string>
+    <string name="instagram_signed_out_body">يُرجى إعادة الربط بحسابك على الإنستغرام لعرض صورك في ملفك الشخصي.</string>
+    <string name="instagram_signed_out_title">تسجيل الخروج من الإنستغرام</string>
+    <string name="instagram_view_more">عرض المزيد على الإنستغرام</string>
+    <string name="intro_chat">دردشة.</string>
+    <string name="intro_match">إعجاب.</string>
+    <string name="intro_meet">مقابلة.</string>
+    <string name="intro_v2_slide_1">اكتشف أشخاصًا جُدد ومميّزين من حولك</string>
+    <string name="intro_v2_slide_2">اسحب لليمين لتُعبّر عن إعجابك بشخص ما أو اسحب لليسار لتجاوزه</string>
+    <string name="intro_v2_slide_3">إذا سحب هذا الشخص إلى اليمين أيضًا، فهذا إعجاب متبادل!</string>
+    <string name="intro_v2_slide_4">لا يستطيع أحد مراسلتك إلا من أعجبت بهم فقط</string>
+    <string name="introducing">نُقدم لكم</string>
+    <string name="invited_select">لقد تمت دعوتك إلى Tinder Select</string>
+    <string name="is_tween_body_collect_email">لا يدعم Tinder المستخدمين في النطاق العمري الخاص بك. قد تختلف الأعمار المدعومة بحسب الدولة. اشترك ليتم إبلاغك عندما تتمكن الانضمام. إذا كانت لديك أسئلة، يُرجى التواصل عبر البريد الإلكتروني help@gotinder.com</string>
+    <string name="is_tween_body_no_collect_email">لا يدعم Tinder المستخدمين في النطاق العمري الخاص بك. قد تختلف الأعمار المدعمة حسب الدولة. إذا كانت لديك أسئلة، الرجاء الاتصال على help@gotinder.com</string>
+    <string name="is_tween_button_text_collect_email">أبلغني</string>
+    <string name="is_tween_email_address_field_empty">أدخل عنوان البريد الإلكتروني الخاص بك</string>
+    <string name="is_tween_notify_me_button_fail">حدث شيء ما خطأ. تأكد من إدخال عنوان بريد إلكتروني صالح.</string>
+    <string name="is_tween_notify_me_button_success">الاشتراك ناجح</string>
+    <string name="its_a_match">شريكان متلاءمان!</string>
+    <string name="job_at">%1$s في %2$s</string>
+    <string name="job_isnt_shown">إذا كانت وظيفتك الحالية غير موضحة، يُرجى تحديثها على facebook وستظهر هنا. إذا كنت تبحث عن وظيفة جديدة، فاعمل في&lt;font color=#EE6C49>Tinder&lt;/font>.</string>
+    <string name="job_title">المُسمى الوظيفي</string>
+    <string name="joda_time_android_date_time">%2$s %1$s</string>
+    <string name="joda_time_android_preposition_for_date">في %s</string>
+    <string name="joda_time_android_preposition_for_time">في الساعة %s</string>
+    <string name="joda_time_android_relative_time">%1$s، %2$s</string>
+    <string name="keep_swiping">واصل التحريك</string>
+    <string name="kilometers">كمكم</string>
+    <string name="last_photo">"آخر
+صورة"</string>
+    <string name="lean_more_about_gender">&lt;font color=#EE6C49>اعرف أكثر&lt;/font> عن خاصية النوع الجنسي في Tinder.</string>
+    <string name="lean_more_about_gender_show_me">&lt;b>Tinder يُرحب بالجميع. &lt;/b> &lt;br /> &lt;/b> &lt;br />تم ضبط إعدادات الاكتشاف الآن بحيث تُظهر المستخدمين الذين يذكرون معلومات أكثر عن هويتهم الجنسية. بمجرد إضافة المستخدمين للمعلومات عن جنسهم، يُمكنهم اختيار الظهور في نتائج البحث التي تعكس هويتهم بأفضل شكل.&lt;br />&lt;br /> &lt;font color=#EE6C49>اعرف أكثر&lt;/font> عن خاصية النوع الجنسي في Tinder.</string>
+    <string name="leave">ترك</string>
+    <string name="left">%1$d:%2$d متبقية!</string>
+    <string name="legal">قانوني</string>
+    <string name="licenses">التراخيص</string>
+    <string name="life_is_short">الحياة قصيرة</string>
+    <string name="like">معجب</string>
+    <string name="like_prompt_drag">حرّك الصورة إلى اليمين لتشير إلى إعجابك ب%1$s.</string>
+    <string name="like_prompt_tap">المس القلب كي تشير إلى أن %1$s أعجبك.</string>
+    <string name="like_title">أعجبك؟</string>
+    <string name="liked_statement">أنت و%1$s معجبان ببعضكما البعض.</string>
+    <string name="liked_your_giphy">تسجيل إعجاب بـGIPHYتم تسجيل إعجاب بـGIPHY</string>
+    <string name="liked_your_message">تسجيل إعجاب برسالتكتقديم إعجاب لرسالتك</string>
+    <string name="liked_your_reaction">أعجِب بصورتك التفاعلية</string>
+    <string name="likes">إعجابات</string>
+    <string name="likes_you">مُعجب بك</string>
+    <string name="limited_time_offer">عرض لوقت محدود</string>
+    <string name="loading_feed">تحميل نشاط الموجز</string>
+    <string name="loading_matches">جاري تحميل شركائك...</string>
+    <string name="location_off_dialog_desc">لا يعمل Tinder بدون معرفة موقعك! إنها الطريقة الوحيدة التي يُمكننا من خلالها إظهار الناس من حولك.</string>
+    <string name="location_off_dialog_title">لم نتمكّن من العثور عليك</string>
+    <string name="location_perma_disabled">يتعذر استخدام Tinder بدون الوصول إلى موقع الجهاز.</string>
+    <string name="location_permission_dialog_desc">يحتاج Tinder إلى موقعك لإظهار المُعجبين المُحتملين حولك.</string>
+    <string name="location_permission_dialog_title">أظهر لي مُعجبين</string>
+    <string name="log_in_with_phone_number">تسجيل الدخول باستخدام رقم الهاتف</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    <string name="login_with_facebook">تسجيل الدخول بحساب فيسبوك</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="logout_confirm">هل أنت واثق من أنك تود تسجيل الخروج؟</string>
+    <string name="mad_ave_loading">جاري التحميل...</string>
+    <string name="mad_ave_loading_failure">فشل التحميل.</string>
+    <string name="mad_ave_share">مشاركة!</string>
+    <string name="make_suggestion">قدّم اقتراحاً</string>
+    <string name="make_suggestion_subject">اقتراح</string>
+    <string name="male">ذكر</string>
+    <string name="males">رجال</string>
+    <string name="man">رجل</string>
+    <string name="maps_API_OUTDATED_WARNING">يستخدم هذا التطبيق إصدارًا قديمًا من الخرائط. قد لا يعمل بشكل صحيح.</string>
+    <string name="maps_BACK_TO_LIST">الرجوع إلى القائمة</string>
+    <string name="maps_CLOSE_SOFTKEY">إغلاق</string>
+    <string name="maps_COMPASS_ALT_TEXT">البوصلة</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">موقعي</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">تكبير</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">تصغير</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - صور ©%2$d%3$s، بيانات الخريطة ©%4$d%5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - صور ©%2$d%3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - بيانات الخريطة ©%2$d%3$s</string>
+    <string name="maps_invalid_panorama_data">بيانات بانوراما غير صالحة.</string>
+    <string name="maps_network_unavailable">يتطلب هذا البرنامج اتصالاً بالبيانات، وسيعيد محاولة الاتصال تلقائيًا. الرجاء التحقق من قوة الإشارة. هل تم تشغيل وضع الطائرة؟ هل تم تعطيل بيانات التجوال؟</string>
+    <string name="maps_no_panorama_data">لم يتم تعيين بيانات بانوراما.</string>
+    <string name="maps_panorama_disabled">الصورة غير متوفرة</string>
+    <string name="maps_service_unavailable">خدمة التجوّل الافتراضي غير متوفرة.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">تم فقد اتصال البيانات، وجارٍ إعادة المحاولة…</string>
+    <string name="match_list_chat">المس على الشريك الجديد أعلاه لإرسال رسالة</string>
+    <string name="match_list_search_hint">بحث عن %1$d معجبين</string>
+    <string name="match_with_them_instantly">إبداء إعجاب بهم فورًا</string>
+    <string name="matched_with">وقع الاختيار على %1$s ليكون شريكاً لك</string>
+    <string name="message_likes">تسجيلات الإعجاب بالرسالة</string>
+    <string name="messages">الرسائل</string>
+    <string name="messages_prompt">إرسال رسالة…</string>
+    <string name="miles">ميلاًميلاً</string>
+    <string name="minutes_ago">منذ %1$sدقيقة</string>
+    <string name="missing_permissions">أذونات مفقودة</string>
+    <string name="more">المزيد</string>
+    <string name="more_caption">@string/more</string>
+    <string name="more_gender_invalid_char_error">"لا تضف روابط أو إيموجي، أو &lt;, > أو (, ) أو : أو = 
+ أو أكثر من 50 حرفًا."</string>
+    <string name="most_played_songs">أكثر الأغاني تشغيلًا</string>
+    <string name="most_popular">الأكثر شيوعًا</string>
+    <string name="mute_notifications">كتم صوت الإخطارات</string>
+    <string name="my_current_location">موقعي الحالي</string>
+    <string name="my_group">مجموعتي</string>
+    <string name="my_tinder_gold">Tinder Gold الخاص بي</string>
+    <string name="my_tinder_plus">Tinder Plus خاصتي</string>
+    <string name="near_city_location_proximity_in">في</string>
+    <string name="near_city_location_proximity_near">بالقرب من</string>
+    <string name="new_likes">إعجابات جديدة</string>
+    <string name="new_match">مُعجب جديد</string>
+    <string name="new_matches">شركاء جدد</string>
+    <string name="new_message">رسالة جديدة</string>
+    <string name="new_place">New Place</string>
+    <string name="new_top_photo">صورة رئيسية جديدة</string>
+    <string name="next">التالي</string>
+    <string name="next_photo">"الصورة
+التالية"</string>
+    <string name="no">لا</string>
+    <string name="no_better_way">ليست هناك طريقة أفضل لإظهار حبك لـ Tinder من إعطائنا تقييمًا لطيفًا!</string>
+    <string name="no_email_warning">إذا لم يكن لديك بريد إلكتروني لن تتمكن من استعادة حسابك عند نسيان كلمة المرور</string>
+    <string name="no_gif_matches_found">لم يتم العثور على تطابقات</string>
+    <string name="no_location_found">لم يتم العثور على موقع</string>
+    <string name="no_matches_found">عدم العثور على تطابقات</string>
+    <string name="no_one_new">ليس هناك شخص جديد حولك.</string>
+    <string name="no_password_warning">لن يكون حسابك آمنًا بدون كلمة مرور.</string>
+    <string name="no_pics_found">لم يتم العثور على صور!</string>
+    <string name="no_theme_song">لا أريد اللحن الرئيسي</string>
+    <string name="no_updates_found">لم يتم تغيير أي قِيَم</string>
+    <string name="no_username">عدم تعيين أي اسم مستخدم</string>
+    <string name="none">لا يوجد</string>
+    <string name="not_interested">لست مهتماً</string>
+    <string name="not_interested_prompt_drag">حرّك الصورة إلى اليسار لتشير إلى عدم اهتمامك ب%1$s.</string>
+    <string name="not_interested_prompt_tap">المس × لتشير إلى عدم اهتمامك ب%1$s.</string>
+    <string name="not_interested_title">لست مهتماً؟لست مهتماً؟</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="nothing_to_restore_message">لا توجد مشتريات لإعادتها.</string>
+    <string name="notification_message_failed">فشل إرسال الرسالة.</string>
+    <string name="notification_notice_match_one">لديك شريك جديد في تيندر!</string>
+    <string name="notification_permission_dialog_desc">اعرف عندما يكون لديك معجب أو عندما تصلك رسالة.</string>
+    <string name="notification_permission_dialog_title">أبقني على اطلاع</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="now">الآن</string>
+    <string name="number_of_likes">%1$s إعجابات</string>
+    <string name="ok">أوافق</string>
+    <string name="ok_i_understand_button">حسنًا، أفهم</string>
+    <string name="okay">@string/reporting_confirmation_button</string>
+    <string name="onboarding_birthday_step_confirm_birthday_body">عند المتابعة، فإنك تُقر بأن التاريخ الذي أدخلته هو تاريخ ميلادك الفعلي.</string>
+    <string name="onboarding_birthday_step_confirm_birthday_button">أفهم وأوافق</string>
+    <string name="onboarding_birthday_step_confirm_birthday_title">إقرار</string>
+    <string name="onboarding_birthday_step_hint">سوف يكون عُمُرك متاحًا للجميع</string>
+    <string name="onboarding_birthday_step_invalid_date">يُرجى إدخال تاريخ صحيح</string>
+    <string name="onboarding_birthday_step_separator">/</string>
+    <string name="onboarding_birthday_step_stay_tuned">ترقّب الجديد</string>
+    <string name="onboarding_birthday_step_stay_tuned_explanation">لقد قمنا بتحديث سياسة السن ولم نعد ندعم المستخدمين في فئتك العمرية.</string>
+    <string name="onboarding_birthday_step_title">"تاريخ 
+ميلادي هو"</string>
+    <string name="onboarding_birthday_step_underage_confirm">فهمت</string>
+    <string name="onboarding_email_invalid_email">بريد إلكتروني غير صحيح يُرجى تجربة عنوان بريد إلكتروني آخر.</string>
+    <string name="onboarding_email_step_edit_text_hint">عنوان البريد الإلكتروني</string>
+    <string name="onboarding_email_step_hint">يُرجى إدخال البريد الإلكتروني الخاص بك من أجل استرداد حسابك في وقت لاحق.</string>
+    <string name="onboarding_email_step_title">"بريدي
+الإلكتروني هو"</string>
+    <string name="onboarding_error_dialog_title">يا خبر! حدثت مشكلة</string>
+    <string name="onboarding_first_step_exit_dialog_body">سوف تخرج من عملية تسجيل الاشتراك هذه وسوف يتم حذف جميع معلوماتك.</string>
+    <string name="onboarding_first_step_exit_dialog_title">هل أنت متأكد؟</string>
+    <string name="onboarding_gender_step_more_button_text">المزيد</string>
+    <string name="onboarding_gender_step_title">أنا</string>
+    <string name="onboarding_last_step_action_button_text">أعد المحاولة</string>
+    <string name="onboarding_last_step_button_text">تم</string>
+    <string name="onboarding_last_step_error_body">"يبدو أن خطأ ما حدث.
+يُرجى إعادة المحاولة."</string>
+    <string name="onboarding_last_step_error_title">عذرًا</string>
+    <string name="onboarding_name_step_button_text">سجّل الآن</string>
+    <string name="onboarding_name_step_edit_text_hint">الاسم الأول</string>
+    <string name="onboarding_name_step_hint">هذه هي كيفية ظهورها في Tinder</string>
+    <string name="onboarding_name_step_invalid_characters">الأحرف %1$s غير مسموح بها.</string>
+    <string name="onboarding_name_step_name_not_allowed">هذا الاسم غير مسموح به</string>
+    <string name="onboarding_name_step_title">"اسمي 
+الأول هو"</string>
+    <string name="onboarding_password_step_edit_text_hint">كلمة المرور</string>
+    <string name="onboarding_password_step_hint">يجب أن تشتمل كلمة المرور على الأقل على حرف 1 ورقم 1 ولا تقل عن 8 رموز.</string>
+    <string name="onboarding_password_step_invalid_password">يُرجى التأكد أن كلمة المرور تحتوي على الأقل على حرف 1 ورقم 1 ولا تقل عن 8 رموز.</string>
+    <string name="onboarding_password_step_strong_password">كلمة المرور الخاصة بك صحيحة.</string>
+    <string name="onboarding_password_step_title">"كلمة
+المرور الخاصة بي هي"</string>
+    <string name="onboarding_password_step_too_simple_password">كلمة المرور الخاصة بك بسيطة للغاية.</string>
+    <string name="onboarding_photos_step_add_button_text">أضف صورتك</string>
+    <string name="onboarding_photos_step_choice_camera">الكاميرا</string>
+    <string name="onboarding_photos_step_choice_camera_roll">ألبوم الكاميرا</string>
+    <string name="onboarding_photos_step_gallery_not_accessible">لم يتم العثور على صورة في الألبوم. حاول استخدام الكاميرا.</string>
+    <string name="onboarding_photos_step_title">"أفضل
+صورة لي هي"</string>
+    <string name="onboarding_skip">تَخَطّى</string>
+    <string name="onboarding_sms_confirmation_title">هيا أنشئ حسابك الجديد</string>
+    <string name="oops">يا خبر! حدثت مشكلة</string>
+    <string name="open_chat">فتح محادثة</string>
+    <string name="open_profile">فتح الحساب الشخصي</string>
+    <string name="open_profile_regular_case">فتح الحساب الشخصي</string>
+    <string name="optimal">متوازن</string>
+    <string name="optimal_details">بشكل عملي مجرب للحصول على المزيد من التطابقات</string>
+    <string name="or_divider">أو</string>
+    <string name="other">غير ذلك</string>
+    <string name="partner_with_us">شاركنا</string>
+    <string name="partner_with_us_subject">شريك الاعمال</string>
+    <string name="passport_feature_description">التوافق مع أشخاص في جميع أنحاء العالم. باريس. لوس أنجلوس. سيدني. انطلق!</string>
+    <string name="passport_feature_title">جواز السفر إلى أي مكان</string>
+    <string name="passport_location">الموقع</string>
+    <string name="passport_search_hint">البحث عن مواقع</string>
+    <string name="pause_account">إيقاف الحساب مؤقتًا</string>
+    <string name="pause_confirmation">هل أنت واثق من أنك تود إيقاف حسابك مؤقتًا؟</string>
+    <string name="pause_my_account">إيقاف مؤقت لحسابي</string>
+    <string name="paywall_byline_ads">سحب غير منقطع</string>
+    <string name="paywall_byline_likes">استمتع بالتمرير</string>
+    <string name="paywall_byline_out_of_likes">ألا تريد الانتظار؟ استخدم النسخة غير المحدودة!</string>
+    <string name="paywall_byline_out_of_superlike">احصل على 5 Superlikes مجانية كل يوم وأكثر</string>
+    <string name="paywall_byline_passport">قم بالمطابقة من أي مكان بالعالم</string>
+    <string name="paywall_byline_superlike">اخبرني إذا كنت مهتماً</string>
+    <string name="paywall_byline_undo">عُد وكرر التمرير</string>
+    <string name="paywall_continue">متابعة</string>
+    <string name="paywall_each">/ea</string>
+    <string name="paywall_error_purchase_window">يُرجى الانتظار قليلًا لشراء اشتراك بعد الإلغاء.</string>
+    <string name="paywall_perk_boost_byline">تخطى الصف واحصل على مزيد من المعجبين!</string>
+    <string name="paywall_perk_no_ads_byline">@string/paywall_byline_likes</string>
+    <string name="paywall_perk_no_ads_title">@string/paywall_title_ads</string>
+    <string name="paywall_perk_passport_byline">جواز سفر لأي مكان!</string>
+    <string name="paywall_perk_passport_title">تجوّل واسحب حول العالم</string>
+    <string name="paywall_perk_superlike_byline">@string/superlike_alc_likely_match</string>
+    <string name="paywall_perk_undo_byline">عُد واسحب مجددًا!</string>
+    <string name="paywall_perk_undo_title">تراجُعات غير محدودة</string>
+    <string name="paywall_perk_unlimited_likes_byline">اسحب لليمين قدر ما تريد</string>
+    <string name="paywall_perk_unlimited_likes_title">@string/paywall_title_likes</string>
+    <string name="paywall_perk_who_sees_you_byline">ستظهر للأشخاص الذين أعجبت بهم فقط</string>
+    <string name="paywall_perk_who_sees_you_title">اختر من يستطيع رؤيتك</string>
+    <string name="paywall_perk_your_profile_byline">حدّد ما يراه الآخرون عنك مع Tinder Plus.</string>
+    <string name="paywall_perk_your_profile_title">@string/control_your_profile_title</string>
+    <string name="paywall_title_ads">إيقاف الإعلانات</string>
+    <string name="paywall_title_likes">إعجابات لا حصر لها</string>
+    <string name="paywall_title_out_of_likes">نَفَذَت الـ Likes!</string>
+    <string name="paywall_title_out_of_superlike">لقد نفذ رصيدك من الـ Super Likes!</string>
+    <string name="paywall_title_passport">تغيير موقعك</string>
+    <string name="paywall_title_superlike">إرسال مزيد من Super Like</string>
+    <string name="paywall_title_undo">التراجع عن آخر تنقل</string>
+    <string name="person_other_end">هناك شخص بانتظارك في الطرف الآخر</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="phone_verification">التحقق بواسطة الجوال</string>
+    <string name="photo_access">الوصول إلى الصور</string>
+    <string name="photo_camera_gallery_title">المعرض</string>
+    <string name="photo_facebook_error_title">تعذر الحصول على الصور من Facebookتعذر الحصول على الصورة من Facebook</string>
+    <string name="photo_optimizer_error">وقع خطأ. يُرجى تكرار المحاولة لاحقاً.</string>
+    <string name="photo_optimizer_top_photo">أفضل صورة</string>
+    <string name="photo_permissions">أذون الصور</string>
+    <string name="photo_permissions_prompt">لتعديل صورك، نحتاج إلى الحصول على إذنك للاطلاع على الصور.</string>
+    <string name="photo_preview_banner_text">اضغط مع الاستمرار على بطاقة لمعاينة الصور قبل فتح ملف التعريف.</string>
+    <string name="photo_preview_banner_text_act">تحرك إلى اليمين</string>
+    <string name="photo_removed_details">تمت إزالة الصورة التي قمت بتحميلها بسبب انتهاك شروط الخدمة.</string>
+    <string name="photo_removed_title">تمت إزالة الصور</string>
+    <string name="photo_runtime_permission_explanation">للتحميل من جهازك، يحتاج Tinder إلى الوصول إلى صورك. اذهب إلى إعدادات للتمكين.</string>
+    <string name="photo_runtime_permission_prompt">"لتحميل الصور من جهازك، فإن Tinder يحتاج إلى الوصول إلى صورك.
+برجاء الضغط على \"سماح\" في الخطوة التالية."</string>
+    <string name="photo_upload_failed_details">فشل في تحميل الصورة التي حددتها. برجاء إعادة المحاولة.</string>
+    <string name="photo_upload_failed_title">فشل تحميل الصورة</string>
+    <string name="place_card_see_more">See More</string>
+    <string name="place_recent_visitors">%1$s Recent Visitors</string>
+    <string name="places">Places</string>
+    <string name="places_card_close">Close</string>
+    <string name="pleasantly_surprised">سوف تندهش بشكل ممتع</string>
+    <string name="please_update_tinder">يُرجى تحديث Tinder</string>
+    <string name="plus_paywall_per_month">في الشهر</string>
+    <string name="plus_restore">استعادة المشتريات</string>
+    <string name="plus_unlocked">Tinder Plus مفتوح</string>
+    <string name="popular_on_spotify">الأشهَر على Spotify</string>
+    <string name="popularity">الانتشار</string>
+    <string name="popularity_details">إظهار المزيد من مستخدمي Tinder الأكثر شيوعاً</string>
+    <string name="post_group_expire_text">"انتهت للتو صلاحية مجموعتك
+ وتوافقات المجموعة الخاصة بك."</string>
+    <string name="post_match_going_out_change_status">تغيير الحالة</string>
+    <string name="post_match_going_out_status_could_not_load">تعذّر تحميل حالات الخروج</string>
+    <string name="post_match_going_out_status_selection_enable">ضبط الحالة</string>
+    <string name="post_match_status_expire_going_out">سوف تنتهي حالتك في منتصف الليل</string>
+    <string name="post_match_where_going_out">ما هي المنطقة/المكان؟ (اختياري)</string>
+    <string name="power_on">تشغيل الطاقة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_seriously">نحن نأخذ خصوصيتك على محمل الجد</string>
+    <string name="privacy_text">"لا ننشر أي شيء على فيسبوك من دون الحصول على إذن صريح منك
+
+لا يستطيع المستخدمون الآخرون الاتصال بك إلا إذا كنت قد أبديت إعجابك بهم.
+
+لا يظهر موقعك الدقيق للمستخدمين الآخرين."</string>
+    <string name="profile_recommend_to_a_friend">"ترشيح %1$s
+ لصديق"</string>
+    <string name="profile_tab_btn_settings">إعدادات</string>
+    <string name="profile_tab_group_expires">تنتهي صلاحية مجموعتك خلال %1$s</string>
+    <string name="profile_updates">تحديثات الحساب الشخصي</string>
+    <string name="pull_reaction_instruction">اسحب لأسفل</string>
+    <string name="purchase_failure">وقع خطأ. يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="purchase_failure_no_offers">تعذّر الاتصال بـ Google Play. يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="purchase_failure_platform_mismatch">يُرجى ترقية اشتراكك على الجهاز الذي نزّلت منه التطبيق في الأصل.</string>
+    <string name="purchase_save">حفظ</string>
+    <string name="radar_no_one_around_message">لا يوجد أحد حولك. قم بتوسيع نطاق إعدادات الاكتشاف لمشاهدة المزيد من الأشخاص.</string>
+    <string name="radar_no_one_around_passport_message">لا يوجد أحد حولك. استخدم خاصية جواز السفر إلى مكان جديد لرؤية مزيد من الأشخاص.</string>
+    <string name="radar_passport_action">تفعيل خاصية جواز السفر</string>
+    <string name="radar_update_action">تحديث</string>
+    <string name="rate_us">قيّمنا</string>
+    <string name="reactivate_account">إعادة تفعيل الحساب</string>
+    <string name="rec_referral_recommended_by">موصى به من قبل %1$s</string>
+    <string name="rec_superliked_you">أبديت SUPER LIKE!</string>
+    <string name="recent_activity_details">إظهار المستخدمين النشطين في أقرب وقت</string>
+    <string name="recommend_to_a_friend">توصية لصديق</string>
+    <string name="recs_status_fetching_location">@string/finding_people</string>
+    <string name="recs_status_loading">@string/finding_people</string>
+    <string name="recs_status_missing_location">@string/oops</string>
+    <string name="recs_status_no_connection">@string/error_network_missing</string>
+    <string name="recs_status_no_one_around">@string/no_one_new</string>
+    <string name="recs_status_no_one_around_dupes_only">@string/no_one_new</string>
+    <string name="recs_status_recs_limited">تحقّق مرة أخرى لاحقًا للتعرّف على أشخاص جُدد</string>
+    <string name="recs_status_retrying_exhausted">@string/finding_people</string>
+    <string name="recs_status_unknown_error">@string/reported_warning_accept_agreement_error</string>
+    <string name="relative_settings_header">استعراض الملف التعريفي</string>
+    <string name="remaining">المتبقي</string>
+    <string name="remove_place">Remove Me From Here</string>
+    <string name="report">إبلاغ</string>
+    <string name="report_issue">الإبلاغ عن مشكلة</string>
+    <string name="report_issue_subject">مساعدة</string>
+    <string name="report_type_bad_offline_behavior">سوء سلوك خارج الإنترنت</string>
+    <string name="report_type_inappropriate_photos">صور غير لائقة</string>
+    <string name="report_type_no_reason">بلا سبب</string>
+    <string name="report_type_offensive_messages">رسائل غير لائقة</string>
+    <string name="report_type_other">غير ذلك</string>
+    <string name="report_type_spam">يبدو أنه رسالة مزعجة</string>
+    <string name="report_user">إبلاغ عن مستخدم</string>
+    <string name="report_who">ما الذي تريد الإبلاغ عنه؟</string>
+    <string name="reported_multiple_warnings_consequences">هذا هو الإنذار الأخير قبل إغلاق حسابك ووضعه قيد التحقق.</string>
+    <string name="reported_multiple_warnings_details">تم الإبلاغ عنك مراراً بسبب:</string>
+    <string name="reported_multiple_warnings_title">يتعين عليك التوقف.</string>
+    <string name="reported_reason_other">سوء سلوك</string>
+    <string name="reported_warning_accept_agreement_error">وقع خطأ. يُرجى تكرار المحاولة لاحقاً.</string>
+    <string name="reported_warning_agreement">أتفهم الأمر. ولن يتكرر ثانية.</string>
+    <string name="reported_warning_button">أعد بذلك.</string>
+    <string name="reported_warning_consequences">تكرار الإساءة قد يؤدي إلى حظر حسابك.</string>
+    <string name="reported_warning_details">تم الإبلاغ عنك بسبب:</string>
+    <string name="reported_warning_title">تم الإبلاغ عنك.</string>
+    <string name="reported_warning_v2_details">لقد اكتشفنا سلوكًا غير لائق قد يُؤدي إلى حظر حسابك. يُرجى زيارة<a href="https://www.gotinder.com/community-guidelines"> تعليمات التواصل الاجتماعي</a> لمعرفة الأشياء المحظورة على Tinder.</string>
+    <string name="reported_warning_v2_title">تحذير</string>
+    <string name="reporting_account_under_review_details">تكرر إبلاغ المستخدمين عنك. سنقوم بالتحقق من حسابك لتحديد الإجراء الواجب اتخاذه بشأنك.</string>
+    <string name="reporting_account_under_review_title">حسابك قيد التحقق.</string>
+    <string name="reporting_confirmation_button">أوافق</string>
+    <string name="reporting_confirmation_title">تم الإبلاغ عن المستخدم</string>
+    <string name="reporting_report_user_details">هل يضايقك هذا الشخص؟ أخبرنا بما فعل.</string>
+    <string name="reporting_report_user_hint">معلومات إضافية (اختياري)</string>
+    <string name="reporting_report_user_progress_title">جاري الإبلاغ عن المستخدم...</string>
+    <string name="reporting_report_user_title">إبلاغ عن مستخدم</string>
+    <string name="reporting_unmatch_button">إلغاء الإضافة كشريك</string>
+    <string name="reporting_unmatch_details">أخبرنا بالسبب...</string>
+    <string name="reporting_unmatch_title">هل أنت متأكد؟</string>
+    <string name="request_code">طلب الكود</string>
+    <string name="resend_code">إعادة إرسال الكود</string>
+    <string name="restore_failed_different_account">فشل الاستعادة. اشتراكك مُتصل الآن بحساب موجود على Tinder.</string>
+    <string name="restore_failed_max_attempt">لقد تجاوزت عدد مرات إمكانية قيامك باستعادة مشترياتك بعد إعادة إنشاء حسابك.</string>
+    <string name="restore_failed_purchase_expired">انتهت صلاحية الشراء: انتهت صلاحية اشتراكك بالفعل.</string>
+    <string name="restoring_purchase">نحاول استعادة اشتراكك.</string>
+    <string name="retry">تكرار المحاولة</string>
+    <string name="review">تقييم</string>
+    <string name="rewind_description">الضرب بشكل غير مقصود على شخص معين؟ قم بالترجيح والضرب مرة أخرى.</string>
+    <string name="rewind_feature_description">امنحني القدرة على ترجيع تمريري الأخير</string>
+    <string name="rewind_feature_title">التراجع عن آخر تنقل</string>
+    <string name="rewind_title">التراجع عن آخر تنقل</string>
+    <string name="s1">حفظ الصورة</string>
+    <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
+    <string name="s3">قبول</string>
+    <string name="s4">رفض</string>
+    <string name="s5">إنشاء حدث تقويم</string>
+    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
+    <string name="s7">إعلان تجريبي</string>
+    <string name="say_hello">قل مرحباً</string>
+    <string name="school">المدرسة</string>
+    <string name="school_isnt_shown">إذا كانت مدرستك غير موضحة، فالرجاء التحديث على موقع facebook، وستظهر هنا.</string>
+    <string name="search">بحث</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="search_spotify_songs">بحث أغاني Spotify</string>
+    <string name="searching">جاري البحث...</string>
+    <string name="see_who_likes_you">انظر من أبدى إعجابه بك</string>
+    <string name="see_who_likes_you_and_match_with_them_instantly">شاهد من أبدى إعجابه بك وبادله الإعجاب فورًا</string>
+    <string name="see_who_likes_you_before_swipe">"انظر من أبدى إعجابه بك
+ قبل أن تسحب"</string>
+    <string name="seekBar_distance">أقصى مسافة</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="select_schools">تحديد المدارس</string>
+    <string name="select_work">تحديد العمل</string>
+    <string name="send">إرسال</string>
+    <string name="send_feedback">إرسال ملاحظة</string>
+    <string name="send_msg">أرسل رسالة</string>
+    <string name="sending">جاري الإرسال...</string>
+    <string name="sent">تم الإرسال</string>
+    <string name="sent_you_a_giphy">تم إرسال GIPHY لك</string>
+    <string name="sent_you_a_reaction">أرسل إليك صورة تفاعلية</string>
+    <string name="set">تعيين</string>
+    <string name="settings">إعدادات</string>
+    <string name="settings_disclaimer">يستخدم تيندر هذه التفضيلات لاقتراح شركاء محتملين. بعض المقترحات قد لا تلبي المعايير التي ترغب فيها.</string>
+    <string name="share_dialog_title">مشاركة مع:</string>
+    <string name="share_matched">أخبر أصدقاءك</string>
+    <string name="share_matched_intent_num_matches">وجدت %1$d شريك لي على تيندر! http://gotinder.com/app</string>
+    <string name="share_my_content_incentive">تُساعد مشاركة نشاطك الاجتماعي على زيادة فرصك في استقبال رسائل بشكل كبير!</string>
+    <string name="share_sheet_title">ترشيح %1$s للأصدقاء</string>
+    <string name="share_text">ألقِ نظرة على تيندر... وسيخبرك بمن معجب بك في منتطقتك! http://www.gotinder.com/app/</string>
+    <string name="share_tinder">مشاركة تيندر</string>
+    <string name="share_url">شارك URL الخاص بي</string>
+    <string name="share_user">مشاركة المستخدم</string>
+    <string name="shared_content">مُحتوى مُشترك</string>
+    <string name="short_distance_unit_km">كمكم</string>
+    <string name="short_distance_unit_mi">ميلاًميلاً</string>
+    <string name="should_enable_social_modal_description">ابدأ تشغيل مجموعة مع أصدقائك لتتطابق مع مجموعات أخرى على Tinder Social.</string>
+    <string name="should_enable_social_modal_title">يجب تمكين Tinder Social للانسحاب على المجموعات</string>
+    <string name="should_in_group_modal_description">يجب أن تخرج لتحقيق التوافق مع مجموعات الأصدقاء ممن هم بالخارج هذه الليلة.</string>
+    <string name="should_in_group_modal_no_button_text">ليس الآن</string>
+    <string name="should_in_group_modal_title">تفاعل مع الأصدقاء</string>
+    <string name="should_in_group_modal_yes_button_text">سأخرج أيضاً</string>
+    <string name="show_ages">الفئة العُمرية</string>
+    <string name="show_distances_in">أظهر المسافات في</string>
+    <string name="show_in_discover_disclaimer">لن تظهر في حزمة البطاقات ولكن لا يزال يمكن مراسلة التوافقات الموجودة.</string>
+    <string name="show_me">أظهرني</string>
+    <string name="show_me_on_tinder">اظهرني على Tinder</string>
+    <string name="show_me_on_tinder_disclaimer">سيؤدي تشغيل هذا إلى عرض ملف التعريف الخاص بك لمستخدمين فرديين قريبين منك.</string>
+    <string name="show_me_on_tinder_social_disclaimer">سوف يؤدي تشغيل هذه الخاصية إلى السماح لأصدقائك بإيجادك ودعوتك للتفاعل معًا.</string>
+    <string name="show_my_gender">أظهر نوعي الجنسي على حسابي الشخصي</string>
+    <string name="skip">تخطي</string>
+    <string name="slide_acknowledge">اسحب لليمين لبدء الدردشة</string>
+    <string name="small_distance_away">على بعد أقل من كم</string>
+    <string name="small_distance_away_km">على بُعد أقل من كيلومتر واحد</string>
+    <string name="social_enabled_modal_description">دعوة الأصدقاء للخروج والتواصل مع المجموعات الأخرى التي ستخرج أيضاً.</string>
+    <string name="social_enabled_modal_no_button_text">ليس الآن</string>
+    <string name="social_enabled_modal_title">هل ستخرج الليلة؟</string>
+    <string name="social_enabled_modal_yes_button_text">سأخرج</string>
+    <string name="social_modal_no_thanks">لا شكراً</string>
+    <string name="social_modal_what_new_dialog_name">من سيخرج الليلة</string>
+    <string name="social_modal_what_new_page_1_description">"سيكون بمقدور أصدقائك على Tinder Social
+رؤيتك ودعوتك للخروج معاً."</string>
+    <string name="social_modal_what_new_page_1_title">اسحب ووافق مع مجموعات الأصدقاء الذين سيخرجون الليلة</string>
+    <string name="social_opt_in_enable_tinder_social">تمكين Tinder Social</string>
+    <string name="social_opt_in_error_text">يُرجى تكرار المحاولة</string>
+    <string name="social_opt_in_error_title">لا يمكن تمكين Tinder Social</string>
+    <string name="social_opt_in_learn_more">معرفة المزيد</string>
+    <string name="social_opt_in_text">"ابدأ تشغيل مجموعة مع أصدقائك لتتطابق مع مجموعات 
+أخرى من أصدقاء في Tinder Social"</string>
+    <string name="social_status_we_are_going_out">نحن ذاهبون للخارج!</string>
+    <string name="social_status_what_are_you_up_to">ما الذي على وشك أنت فعله؟</string>
+    <string name="sorry_app_crashed">نأسف لتعطّل التطبيق عن العمل! يُرجى عدم التردّد في إرسال ملاحظاتك أو الاستمرار في السحب أثناء قيامنا بمعالجة هذه المشكلة!</string>
+    <string name="special">خاص</string>
+    <string name="sponsored">برعاية</string>
+    <string name="spotify">Spotify</string>
+    <string name="spotify_0_tracks_connect_dialog">"تم العثور على 0 من أفضل المطربين
+ في حساب Spotify الخاص بك"</string>
+    <string name="spotify_add_artists">قائمة أفضل المطربين على Spotify الخاصه بي</string>
+    <string name="spotify_auth_title">قائمة أفضل المطربين على Spotify الخاصه بي</string>
+    <string name="spotify_choose_theme_song">اختر الأغنية الرئيسية</string>
+    <string name="spotify_connection_error">"لقد حدث شيء ما! 
+تحقّق من الإتصال وحاول من جديد"</string>
+    <string name="spotify_connection_success">"تم توصيل Spotify 
+عدّل الموسيقى في إعدادات حسابك الشخصي"</string>
+    <string name="spotify_dialog_modal_connect">رابط موقع Spotify</string>
+    <string name="spotify_install_play_store">يجب عليك تثبيت Spotify أولًا</string>
+    <string name="spotify_listen_more_connect_dialog">"إستمع الى المزيد من الموسيقى في Spotify و
+حاول مرة أخرى لاحقاً"</string>
+    <string name="spotify_login">أضف Spotify الى ملفك الشخصي</string>
+    <string name="spotify_my_theme_song">أغنيتي المفضلة</string>
+    <string name="spotify_play_full_song">شغّل الأغنية كاملة</string>
+    <string name="spotify_share_interests">شارك إهتماماتك الموسيقية من Spotify، أيضاً</string>
+    <string name="start_convo">ابدأ المحادثة</string>
+    <string name="start_swiping">ابدأ البحث عن معجبين</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="submit_feedback">إرسال الملاحظات</string>
+    <string name="submit_feedback_and_deactivate">إرسال ملاحظة وتعطيل الحساب</string>
+    <string name="submit_feedback_and_delete">إرسال الملاحظات والحذف</string>
+    <string name="submit_feedback_and_pause">إرسال ملاحظة وإيقاف الحساب مؤقتًا</string>
+    <string name="superlike_alc_buy_more_title">احصل على المزيد من Super Likes</string>
+    <string name="superlike_alc_likely_match">تزيد احتمالية حصولك على معجب بواقع 3 أضعاف!</string>
+    <string name="superlike_alc_out_countdown_details_bottom">لا تريد الانتظار؟ احصل على المزيد الآن.</string>
+    <string name="superlike_alc_out_of_superlikes">لقد نفذ رصيدك من الـ Super Likes!</string>
+    <string name="superlike_alc_refill_now">ألا تريد الانتظار؟ اشحن الآن.</string>
+    <string name="superlike_alc_refill_now_name">لا تفقد %1$s. أعد الشحن الآن.</string>
+    <string name="superlike_alc_stand_out">كن مميزًا مع Super Like</string>
+    <string name="superlike_alc_upsell_subtitle">انقر لإعادة الملء الآن…</string>
+    <string name="superlike_alc_upsell_title">ترغب في المزيد من Super Likes؟</string>
+    <string name="superlike_error">معذرة، نحن يتعذر علينا إجراء Super Like %1$s</string>
+    <string name="superlike_first_use_body">أنت على وشك أن تبدي Super Like للمرة الأولى. سيؤدي هذا إلى أن يعلم %1$s بأنك قد أبديت Super Like.</string>
+    <string name="superlike_first_use_positive">Super Like</string>
+    <string name="superlike_first_use_title">هل ترغب في إبداء Super Like %1$s؟</string>
+    <string name="superlike_like_statement">لقد أبديت Super Like %1$s!</string>
+    <string name="superlike_liked_statement">أبديت Super Like %1$s!</string>
+    <string name="superlike_undo_error">معذرة، نحن تعذر علينا القيام بـSuper Like.</string>
+    <string name="superlikeable_footer_skip">تَخَطّى</string>
+    <string name="superlikeable_header">"إليك %1$s Super Like - مُصصمة
+خصيصًا لك."</string>
+    <string name="superlikeable_header_free">مجانًا</string>
+    <string name="swipe_to_find_out">اسحب لتعرف من</string>
+    <string name="swipe_to_see_who_checked_you_out">اسحب لترى من شاهد حسابك الشخصي</string>
+    <string name="swiping_in_settings">يستخدم التطبيق في</string>
+    <string name="swiping_in_settings_detail">قم بتغيير موقعك التبادلي لرؤية عناصر Tinder في المدن الأخرى.</string>
+    <string name="tab_feed">الموجز</string>
+    <string name="tab_messages">الرسائل</string>
+    <string name="tap_the_stars">المس عدد النجوم التي تُريد إعطاءها لـ Tinder على مقياس من 1 إلى 5!</string>
+    <string name="tap_to_agree">المس كل مربع للموافقة</string>
+    <string name="tap_to_chat">المس للدردشة مع معجبك!</string>
+    <string name="tap_to_chat_with">المس للدردشة مع %1$s</string>
+    <string name="tap_to_check_them_out">المس لتتعرّف عليهم</string>
+    <string name="tap_to_view">المس للمشاهدة</string>
+    <string name="tell_friends_unlock">افتح Tinder Social حتى يمكنني إضافتك إلى مجموعتي التي ستخرج هذه الليلة: https://gotinder.com/app</string>
+    <string name="tell_us_more">أخبرني أكثر</string>
+    <string name="terms_and_privacy_v2">بموجب تسجيل الدخول، فإنك توافق على &lt;a href=\"#terms\">شروط الخدمة&lt;/a> و &lt;a href=\"#privacy\">سياسة الخصوصية&lt;/a></string>
+    <string name="terms_of_service">شروط الخدمة</string>
+    <string name="text_ages">Show Ages text</string>
+    <string name="text_distance">Search Distance for discovery</string>
+    <string name="text_show_me">Show Me: txt</string>
+    <string name="thank_you">شكراً لك</string>
+    <string name="thank_you_feedback_sent">ملاحظتك تجعلُنا نرتقي بتجربتك معنا! نشكرك مرة أخرى لإبداء ملاحظاتك!</string>
+    <string name="thank_you_review_sent">نحن سعداء لكونك سعيدًا! لا تتردد في إرسال ملاحظاتك في أي وقت!</string>
+    <string name="thanks_for_your_feedback">شكراً لك على ملاحظتك</string>
+    <string name="thanks_title">شكرًا لك!</string>
+    <string name="thanks_to_boost">، بفضل Boost.</string>
+    <string name="thanks_to_tinder_gold">، شكرًا لـ Tinder Gold.</string>
+    <string name="they_sent_many_ball_is_in_your_court">الكرة في ملعبك! %1$s+</string>
+    <string name="they_sent_many_reactions">%1$s أرسل %2$sx</string>
+    <string name="they_sent_one_ball_is_in_your_court">الكرة في ملعبك!</string>
+    <string name="they_sent_one_reaction">%1$s أرسل</string>
+    <string name="this_feature_is_not_enabled">هذه الميزة ليست مُفعّلة على جهازك.</string>
+    <string name="this_list_is_empty">هذه القائمة فارغة. يُرجى تكرار المحاولة لاحقاً.</string>
+    <string name="tinder_gold_num_of_people_already_like_you_exact">أبدى %1$s شخص/أشخاص إعجابهم بك بالفعل!</string>
+    <string name="tinder_gold_num_of_people_already_like_you_range">أبدى %1$s+شخص/أشخاص إعجابهم بك بالفعل!!</string>
+    <string name="tinder_gold_you_have_already_been_liked">أبدى شخص ما إعجابه بك بالفعل!</string>
+    <string name="tinder_plus_free_boost">يستمتع مستخدمو Tinder Plus بـ %1$d مجانًا%2$s كل %3$s %4$s.</string>
+    <string name="tinder_plus_upsell_button_description">(%1$d مجانًا %2$s كل%3$s %4$s)</string>
+    <string name="tinder_reactions">تفاعلات Tinder</string>
+    <string name="tinder_reactions_description">"طريقة مرحة جديدة للتعبير عن نفسك والضحك
+تعرّف عليها في الرسائل"</string>
+    <string name="tinder_select_connect_instagram">الربط بإنستقرام</string>
+    <string name="tinder_select_continue">متابعة</string>
+    <string name="tinder_select_member">عضو TINDER SELECT</string>
+    <string name="tinder_select_nom_splash_intro_instagram">اربط بإنستقرام لتجاوز الصف.</string>
+    <string name="tinder_select_nom_splash_intro_main">نحن نُراجع الطلبات وسوف نتواصل معك قريبًا.</string>
+    <string name="tinder_select_tool_tip_text">"أنت الآن على
+ TINDER SELECT"</string>
+    <string name="tinder_social_match">تطابق TINDER للتواصل الإجتماعي</string>
+    <string name="top_spotify_artists">قائمة أفضل المطربين على Spotify الخاصه بي</string>
+    <string name="total">الإجمالي</string>
+    <string name="type_here">اكتب هنا</string>
+    <string name="type_to_search_more_gender">ابدأ الكتابة</string>
+    <string name="type_your_feedback">يُرجى كتابة ملاحظتك هنا...</string>
+    <string name="under_18">هذا الشخص عمره يقل عن 18</string>
+    <string name="unlimited_likes_and_more">إعجابات غير محدودة وأكثر!</string>
+    <string name="unlimited_swipes_description">اضرب كيفما تريد.</string>
+    <string name="unlimited_swipes_feature_description">امنحني القدرة على Like أكبر عدد من الأشخاص أريده</string>
+    <string name="unlimited_swipes_feature_title">@string/paywall_title_likes</string>
+    <string name="unlimited_swipes_title">ضربات مباشرة غير محدودة</string>
+    <string name="unlock_out_most_exclusive_features">فتح المزايا الأكثر حصرية</string>
+    <string name="unmatch">"إلغاء الإعجاب بـ
+%1$s"</string>
+    <string name="unmute_notifications">كتم صوت الإخطارات</string>
+    <string name="until_manual">حتى أشغّله مرة أخرى</string>
+    <string name="until_next_month">حتى الشهر القادم</string>
+    <string name="until_next_week">حتى الأسبوع القادم</string>
+    <string name="until_tomorrow">حتى غد</string>
+    <string name="update_tinder_body">لم يعد هذا الإصدار مدعومًا من Tinder. يُرجى التحديث للاستمرار في استخدام Tinder. يُمكنك التحديث من خلال الانتقال إلى Play Store > تطبيقاتي.</string>
+    <string name="updated_profile">تم تحديث الملف التعريفي.</string>
+    <string name="upgrade_to_tinder_gold">ترقية إلى Tinder Gold</string>
+    <string name="user_menu_group_active_disband">إنهاء المجموعة</string>
+    <string name="user_menu_group_active_extend">تمديد</string>
+    <string name="user_menu_group_active_in_a_group_with_v2">أنت في مجموعة مع %1$s</string>
+    <string name="user_menu_group_active_in_a_group_with_v2_new_line">"أنت في مجموعة مع
+%1$s"</string>
+    <string name="user_menu_group_active_leave">ترك مجموعة</string>
+    <string name="user_menu_group_active_subtitle">إعجاب متبادل مع مجموعات من الأصدقاء القريبين.</string>
+    <string name="user_menu_group_body_default">إعجاب متبادل مع مجموعات من الأصدقاء القريبين.</string>
+    <string name="user_menu_group_default_button">أنشئ مجموعتك</string>
+    <string name="user_menu_group_expired_button">أنشئ مجموعتك</string>
+    <string name="user_menu_group_text_expired">إعجاب متبادل مع مجموعات من الأصدقاء القريبين.</string>
+    <string name="user_menu_group_title_default">تفاعل مع الأصدقاء</string>
+    <string name="user_menu_group_title_expired">تفاعل مع الأصدقاء</string>
+    <string name="user_not_found">عدم العثور على مستخدم</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="username_deleted">تم حذف اسم المستخدم</string>
+    <string name="username_saved">تم حفظ اسم المستخدم</string>
+    <string name="username_unavailable">اسم المستخدم غير متاح</string>
+    <string name="verify_details">سيرسل تيندر إليك رسالة نصية للتحقق من رقم جوالك. للتحقق من شخصيتك، يُرجى إدخال رقم جوالك.</string>
+    <string name="verify_prompt">تحقق من رقم جوالك</string>
+    <string name="version">الإصدار %1$s</string>
+    <string name="view_profile">استعراض الملف التعريفي</string>
+    <string name="we_like_you_too">شكراً! ونحن نحبك أيضاً!</string>
+    <string name="web_profile">الملف التعريفي للويب</string>
+    <string name="whats_new_neutral_button_text">@string/skip</string>
+    <string name="whats_new_neutral_button_text_squad">حصلت عليه</string>
+    <string name="whats_new_photo_optimizer">نقدم الصور الذكية</string>
+    <string name="whats_new_photo_optimizer_cancel">لا تُحسّن صوري</string>
+    <string name="whats_new_photo_optimizer_details">تقوم الصور الذكية بإختبار جميع صور حسابك الشخصي وإختيار أفضلها لتعرضها أولاً.</string>
+    <string name="whats_new_photo_optimizer_ok">عُلم، شكراً</string>
+    <string name="whats_new_photo_optimizer_switch">الصور الذكية</string>
+    <string name="whats_new_positive_button_text">@string/next</string>
+    <string name="whats_new_positive_button_text_squad">الخروج الليلة؟</string>
+    <string name="who_sees_you_description">اظهر فقط لأنواع معينة من الناس على Tinder.</string>
+    <string name="who_sees_you_feature_one_description">سيظهر فقط لأنواع معينة من الناس لكل توصية من التوصيات.</string>
+    <string name="who_sees_you_feature_one_title">قياسي</string>
+    <string name="who_sees_you_feature_two_description">فقط الأشخاص الذين قمت بتمريرهم سوف يروني</string>
+    <string name="who_sees_you_feature_two_title">فقط الأشخاص الذين Liked</string>
+    <string name="who_sees_you_title">التحكم في من يراك</string>
+    <string name="who_you_see_description">الأمر بسيط الآن لاختيار نوع الشخص الذي تريد أن تراه على Tinder.</string>
+    <string name="who_you_see_feature_one_description">ترى معظم الناس المعنيين بالنسبة لك (الإعداد الافتراضي)</string>
+    <string name="who_you_see_feature_one_title">توصيات متوازنة</string>
+    <string name="who_you_see_feature_three_description">شاهد معظم الأشخاص الأكثر حداثة أولاً</string>
+    <string name="who_you_see_feature_three_title">نشط مؤخراً</string>
+    <string name="who_you_see_title">التحكم في من ترى</string>
+    <string name="why_are_you_deactivating">نُريد أن نعرف كيف لنا أن نرتقي بتجربتك معنا. لماذا تُعطّل حسابك على Tinder؟</string>
+    <string name="why_are_you_deleting">نُريد أن نعرف كيفية تحسين تجربتك معنا. لماذا تحذف حسابك على Tinder؟</string>
+    <string name="why_are_you_pausing">نُريد أن نعرف كيف لنا أن نرتقي بتجربتك معنا. لماذا توقف حسابك مؤقتًا على Tinder؟</string>
+    <string name="will_not_be_able_to_see_likes_you">لن تستطيع رؤية المعجبين بك إذا قُمت بتغيير هذا الإعداد.</string>
+    <string name="woman">امرأة</string>
+    <string name="yes">نعم</string>
+    <string name="you_already_own_this_product">أنت تمتلك هذا المنتج بالفعل.</string>
+    <string name="you_are_no_longer_out">أنت لم تعد وحيداً بالخارج.</string>
+    <string name="you_can_provide_feedback_anytime">يمكنك إرسال ملاحظتك في أي وقت من خلال القائمة.</string>
+    <string name="you_can_review_anytime">يمكنك تقييمنا في أي وقت من القائمة.</string>
+    <string name="you_have_a_new_message">لديك رسالة جديدة!</string>
+    <string name="you_have_new_likes">لديك إعجابات جديدة!</string>
+    <string name="you_have_no_matches">عند حدوث إعجاب متبادل بينك وبين مستخدمين آخرين، فإنهم سوف يظهرون هنا حيث يُمكنك إرسال رسائل إليهم</string>
+    <string name="you_r_in_control">كل شيء تحت السيطرة</string>
+    <string name="you_sent_a_giphy">أ،ت أرسلت GIPHY</string>
+    <string name="you_sent_a_reaction">لقد أرسلت صورة تفاعلية</string>
+    <string name="you_sent_many_reactions">لقد أرسلت %1$sx</string>
+    <string name="you_sent_one_reaction">لقد أرسلت</string>
+    <string name="your_boost_was_a_success">نجح الـ Boost الخاص بك!</string>
+    <string name="your_feedback_is_important">رأيك يهمنا. ساعدنا على أن نجعل تيندر في أفضل صورة.</string>
+    <string name="your_group_chat">الدردشة الجماعية الخاصة بك</string>
+    <string name="your_input_helps_us">تعليقاتك تساعدنا على أن نجعل التجربة أفضل. شكراً مرة ثانية على ملاحظاتك.</string>
+    <string name="youre_out_of_likes">نفذت الإعجابات</string>
+    <string name="youve_been_superliked">لديك Super Likes</string>
+    <string name="youve_been_to">You’ve Been To</string>
+    <string name="yrs">سنة</string>
+    <string name="zero_artist">0 أفضل المطربين</string>
+    <string name="exit_survey_congratulations">مبروك!</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"موقعي 
+على مسافة {0} من الأمتار"</string>
+    <string name="smartling">smartling</string>
+</resources>

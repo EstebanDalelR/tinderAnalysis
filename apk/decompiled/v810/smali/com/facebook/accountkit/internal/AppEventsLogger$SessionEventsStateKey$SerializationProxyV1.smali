@@ -1,0 +1,72 @@
+.class Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;
+.super Ljava/lang/Object;
+.source "AppEventsLogger.java"
+
+# interfaces
+.implements Ljava/io/Serializable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0xa
+    name = "SerializationProxyV1"
+.end annotation
+
+
+# static fields
+.field private static final serialVersionUID:J = -0x1L
+
+
+# instance fields
+.field private final a:Ljava/lang/String;
+
+.field private final b:Ljava/lang/String;
+
+
+# direct methods
+.method private constructor <init>(Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 147
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 148
+    iput-object p1, p0, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;->a:Ljava/lang/String;
+
+    .line 149
+    iput-object p2, p0, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;->b:Ljava/lang/String;
+
+    .line 150
+    return-void
+.end method
+
+.method synthetic constructor <init>(Ljava/lang/String;Ljava/lang/String;Lcom/facebook/accountkit/internal/AppEventsLogger$1;)V
+    .locals 0
+
+    .prologue
+    .line 141
+    invoke-direct {p0, p1, p2}, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+
+    return-void
+.end method
+
+.method private readResolve()Ljava/lang/Object;
+    .locals 3
+
+    .prologue
+    .line 153
+    new-instance v0, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey;
+
+    iget-object v1, p0, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;->a:Ljava/lang/String;
+
+    iget-object v2, p0, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey$SerializationProxyV1;->b:Ljava/lang/String;
+
+    invoke-direct {v0, v1, v2}, Lcom/facebook/accountkit/internal/AppEventsLogger$SessionEventsStateKey;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+
+    return-object v0
+.end method

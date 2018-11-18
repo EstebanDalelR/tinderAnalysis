@@ -1,0 +1,19 @@
+.class public interface abstract Lcom/google/android/m4b/maps/x/v;
+.super Ljava/lang/Object;
+.source "IOnMarkerClickListener.java"
+
+# interfaces
+.implements Landroid/os/IInterface;
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/google/android/m4b/maps/x/v$a;
+    }
+.end annotation
+
+
+# virtual methods
+.method public abstract a(Lcom/google/android/m4b/maps/model/internal/IMarkerDelegate;)Z
+.end method

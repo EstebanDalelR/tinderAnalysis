@@ -1,0 +1,29 @@
+.class public Lcom/tinder/k/ey;
+.super Ljava/lang/Object;
+.source "TimberTreeModule.java"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 10
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method a(Lcom/tinder/common/a;)Lcom/tinder/common/b;
+    .locals 1
+
+    .prologue
+    .line 14
+    new-instance v0, Lcom/tinder/common/b;
+
+    invoke-direct {v0, p1}, Lcom/tinder/common/b;-><init>(Lcom/tinder/common/a;)V
+
+    return-object v0
+.end method

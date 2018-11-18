@@ -1,0 +1,410 @@
+.class public Ljp/co/cyberagent/android/gpuimage/a;
+.super Ljava/lang/Object;
+.source "GPUImageFilter.java"
+
+
+# instance fields
+.field protected a:I
+
+.field protected b:I
+
+.field protected c:I
+
+.field protected d:I
+
+.field protected e:I
+
+.field protected f:I
+
+.field private final g:Ljava/util/LinkedList;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/LinkedList",
+            "<",
+            "Ljava/lang/Runnable;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+.field private final h:Ljava/lang/String;
+
+.field private final i:Ljava/lang/String;
+
+.field private j:Z
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    .prologue
+    .line 62
+    const-string v0, "attribute vec4 position;\nattribute vec4 inputTextureCoordinate;\n \nvarying vec2 textureCoordinate;\n \nvoid main()\n{\n    gl_Position = position;\n    textureCoordinate = inputTextureCoordinate.xy;\n}"
+
+    const-string v1, "varying highp vec2 textureCoordinate;\n \nuniform sampler2D inputImageTexture;\n \nvoid main()\n{\n     gl_FragColor = texture2D(inputImageTexture, textureCoordinate);\n}"
+
+    invoke-direct {p0, v0, v1}, Ljp/co/cyberagent/android/gpuimage/a;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 63
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/String;Ljava/lang/String;)V
+    .locals 1
+
+    .prologue
+    .line 65
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 66
+    new-instance v0, Ljava/util/LinkedList;
+
+    invoke-direct {v0}, Ljava/util/LinkedList;-><init>()V
+
+    iput-object v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->g:Ljava/util/LinkedList;
+
+    .line 67
+    iput-object p1, p0, Ljp/co/cyberagent/android/gpuimage/a;->h:Ljava/lang/String;
+
+    .line 68
+    iput-object p2, p0, Ljp/co/cyberagent/android/gpuimage/a;->i:Ljava/lang/String;
+
+    .line 69
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()V
+    .locals 1
+
+    .prologue
+    .line 72
+    invoke-virtual {p0}, Ljp/co/cyberagent/android/gpuimage/a;->b()V
+
+    .line 73
+    const/4 v0, 0x1
+
+    iput-boolean v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->j:Z
+
+    .line 74
+    invoke-virtual {p0}, Ljp/co/cyberagent/android/gpuimage/a;->c()V
+
+    .line 75
+    return-void
+.end method
+
+.method protected a(IF)V
+    .locals 1
+
+    .prologue
+    .line 176
+    new-instance v0, Ljp/co/cyberagent/android/gpuimage/a$1;
+
+    invoke-direct {v0, p0, p1, p2}, Ljp/co/cyberagent/android/gpuimage/a$1;-><init>(Ljp/co/cyberagent/android/gpuimage/a;IF)V
+
+    invoke-virtual {p0, v0}, Ljp/co/cyberagent/android/gpuimage/a;->a(Ljava/lang/Runnable;)V
+
+    .line 182
+    return-void
+.end method
+
+.method public a(II)V
+    .locals 0
+
+    .prologue
+    .line 99
+    iput p1, p0, Ljp/co/cyberagent/android/gpuimage/a;->e:I
+
+    .line 100
+    iput p2, p0, Ljp/co/cyberagent/android/gpuimage/a;->f:I
+
+    .line 101
+    return-void
+.end method
+
+.method public a(ILjava/nio/FloatBuffer;Ljava/nio/FloatBuffer;)V
+    .locals 7
+
+    .prologue
+    const/16 v2, 0x1406
+
+    const/16 v6, 0xde1
+
+    const/4 v1, 0x2
+
+    const/4 v3, 0x0
+
+    .line 105
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glUseProgram(I)V
+
+    .line 106
+    invoke-virtual {p0}, Ljp/co/cyberagent/android/gpuimage/a;->g()V
+
+    .line 107
+    iget-boolean v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->j:Z
+
+    if-nez v0, :cond_0
+
+    .line 128
+    :goto_0
+    return-void
+
+    .line 111
+    :cond_0
+    invoke-virtual {p2, v3}, Ljava/nio/FloatBuffer;->position(I)Ljava/nio/Buffer;
+
+    .line 112
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->b:I
+
+    move v4, v3
+
+    move-object v5, p2
+
+    invoke-static/range {v0 .. v5}, Landroid/opengl/GLES20;->glVertexAttribPointer(IIIZILjava/nio/Buffer;)V
+
+    .line 113
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->b:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glEnableVertexAttribArray(I)V
+
+    .line 114
+    invoke-virtual {p3, v3}, Ljava/nio/FloatBuffer;->position(I)Ljava/nio/Buffer;
+
+    .line 115
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->d:I
+
+    move v4, v3
+
+    move-object v5, p3
+
+    invoke-static/range {v0 .. v5}, Landroid/opengl/GLES20;->glVertexAttribPointer(IIIZILjava/nio/Buffer;)V
+
+    .line 117
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->d:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glEnableVertexAttribArray(I)V
+
+    .line 118
+    const/4 v0, -0x1
+
+    if-eq p1, v0, :cond_1
+
+    .line 119
+    const v0, 0x84c0
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glActiveTexture(I)V
+
+    .line 120
+    invoke-static {v6, p1}, Landroid/opengl/GLES20;->glBindTexture(II)V
+
+    .line 121
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->c:I
+
+    invoke-static {v0, v3}, Landroid/opengl/GLES20;->glUniform1i(II)V
+
+    .line 123
+    :cond_1
+    invoke-virtual {p0}, Ljp/co/cyberagent/android/gpuimage/a;->f()V
+
+    .line 124
+    const/4 v0, 0x5
+
+    const/4 v1, 0x4
+
+    invoke-static {v0, v3, v1}, Landroid/opengl/GLES20;->glDrawArrays(III)V
+
+    .line 125
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->b:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glDisableVertexAttribArray(I)V
+
+    .line 126
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->d:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glDisableVertexAttribArray(I)V
+
+    .line 127
+    invoke-static {v6, v3}, Landroid/opengl/GLES20;->glBindTexture(II)V
+
+    goto :goto_0
+.end method
+
+.method protected a(Ljava/lang/Runnable;)V
+    .locals 2
+
+    .prologue
+    .line 254
+    iget-object v1, p0, Ljp/co/cyberagent/android/gpuimage/a;->g:Ljava/util/LinkedList;
+
+    monitor-enter v1
+
+    .line 255
+    :try_start_0
+    iget-object v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->g:Ljava/util/LinkedList;
+
+    invoke-virtual {v0, p1}, Ljava/util/LinkedList;->addLast(Ljava/lang/Object;)V
+
+    .line 256
+    monitor-exit v1
+
+    .line 257
+    return-void
+
+    .line 256
+    :catchall_0
+    move-exception v0
+
+    monitor-exit v1
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    throw v0
+.end method
+
+.method public b()V
+    .locals 2
+
+    .prologue
+    .line 78
+    iget-object v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->h:Ljava/lang/String;
+
+    iget-object v1, p0, Ljp/co/cyberagent/android/gpuimage/a;->i:Ljava/lang/String;
+
+    invoke-static {v0, v1}, Ljp/co/cyberagent/android/gpuimage/d;->a(Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result v0
+
+    iput v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    .line 79
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    const-string v1, "position"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetAttribLocation(ILjava/lang/String;)I
+
+    move-result v0
+
+    iput v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->b:I
+
+    .line 80
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    const-string v1, "inputImageTexture"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetUniformLocation(ILjava/lang/String;)I
+
+    move-result v0
+
+    iput v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->c:I
+
+    .line 81
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    const-string v1, "inputTextureCoordinate"
+
+    invoke-static {v0, v1}, Landroid/opengl/GLES20;->glGetAttribLocation(ILjava/lang/String;)I
+
+    move-result v0
+
+    iput v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->d:I
+
+    .line 83
+    const/4 v0, 0x1
+
+    iput-boolean v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->j:Z
+
+    .line 84
+    return-void
+.end method
+
+.method public c()V
+    .locals 0
+
+    .prologue
+    .line 87
+    return-void
+.end method
+
+.method public final d()V
+    .locals 1
+
+    .prologue
+    .line 90
+    const/4 v0, 0x0
+
+    iput-boolean v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->j:Z
+
+    .line 91
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    invoke-static {v0}, Landroid/opengl/GLES20;->glDeleteProgram(I)V
+
+    .line 92
+    invoke-virtual {p0}, Ljp/co/cyberagent/android/gpuimage/a;->e()V
+
+    .line 93
+    return-void
+.end method
+
+.method public e()V
+    .locals 0
+
+    .prologue
+    .line 96
+    return-void
+.end method
+
+.method protected f()V
+    .locals 0
+
+    .prologue
+    .line 130
+    return-void
+.end method
+
+.method protected g()V
+    .locals 1
+
+    .prologue
+    .line 133
+    :goto_0
+    iget-object v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->g:Ljava/util/LinkedList;
+
+    invoke-virtual {v0}, Ljava/util/LinkedList;->isEmpty()Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    .line 134
+    iget-object v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->g:Ljava/util/LinkedList;
+
+    invoke-virtual {v0}, Ljava/util/LinkedList;->removeFirst()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Ljava/lang/Runnable;
+
+    invoke-interface {v0}, Ljava/lang/Runnable;->run()V
+
+    goto :goto_0
+
+    .line 136
+    :cond_0
+    return-void
+.end method
+
+.method public h()I
+    .locals 1
+
+    .prologue
+    .line 151
+    iget v0, p0, Ljp/co/cyberagent/android/gpuimage/a;->a:I
+
+    return v0
+.end method

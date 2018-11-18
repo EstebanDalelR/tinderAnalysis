@@ -1,0 +1,148 @@
+.class public final Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE$Companion;
+.super Ljava/lang/Object;
+.source "UserRec.kt"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "Companion"
+.end annotation
+
+.annotation runtime Lkotlin/Metadata;
+    bv = {
+        0x1,
+        0x0,
+        0x2
+    }
+    d1 = {
+        "\u0000\u001c\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0008\u0002\n\u0002\u0010$\n\u0002\u0010\u0008\n\u0002\u0018\u0002\n\u0002\u0008\u0005\u0008\u0086\u0003\u0018\u00002\u00020\u0001B\u0007\u0008\u0002\u00a2\u0006\u0002\u0010\u0002J\u000e\u0010\t\u001a\u00020\u00062\u0006\u0010\n\u001a\u00020\u0005R \u0010\u0003\u001a\u000e\u0012\u0004\u0012\u00020\u0005\u0012\u0004\u0012\u00020\u00060\u0004X\u0082\u0004\u00a2\u0006\u0008\n\u0000\u001a\u0004\u0008\u0007\u0010\u0008\u00a8\u0006\u000b"
+    }
+    d2 = {
+        "Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE$Companion;",
+        "",
+        "()V",
+        "map",
+        "",
+        "",
+        "Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;",
+        "getMap",
+        "()Ljava/util/Map;",
+        "from",
+        "value",
+        "domain_release"
+    }
+    k = 0x1
+    mv = {
+        0x1,
+        0x1,
+        0x9
+    }
+.end annotation
+
+
+# direct methods
+.method private constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 92
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public synthetic constructor <init>(Lkotlin/jvm/internal/f;)V
+    .locals 0
+
+    .prologue
+    .line 92
+    invoke-direct {p0}, Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE$Companion;-><init>()V
+
+    return-void
+.end method
+
+.method private final getMap()Ljava/util/Map;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/Map",
+            "<",
+            "Ljava/lang/Integer;",
+            "Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;",
+            ">;"
+        }
+    .end annotation
+
+    .prologue
+    .line 93
+    invoke-static {}, Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;->access$getMap$cp()Ljava/util/Map;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public final from(I)Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;
+    .locals 2
+
+    .prologue
+    .line 95
+    check-cast p0, Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE$Companion;
+
+    invoke-direct {p0}, Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE$Companion;->getMap()Ljava/util/Map;
+
+    move-result-object v0
+
+    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v1
+
+    invoke-interface {v0, v1}, Ljava/util/Map;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object v0
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "Unknown top picks type "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p1}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    new-instance v0, Ljava/lang/IllegalStateException;
+
+    invoke-virtual {v1}, Ljava/lang/Object;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v0, v1}, Ljava/lang/IllegalStateException;-><init>(Ljava/lang/String;)V
+
+    check-cast v0, Ljava/lang/Throwable;
+
+    throw v0
+
+    :cond_0
+    check-cast v0, Lcom/tinder/domain/recs/model/TopPickUserRec$TYPE;
+
+    return-object v0
+.end method

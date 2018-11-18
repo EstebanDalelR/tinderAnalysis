@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:background="@color/places_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewAnimator android:id="@id/placesViewAnimator" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/placeViewContainer" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.tinder.places.view.NoLicenseMapView android:id="@id/placesMap" android:background="@drawable/places_map_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.tinder.places.view.PlacesCarouselView android:layout_gravity="bottom|center" android:id="@id/placesCarousel" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/place_card_pager_height" android:overScrollMode="never" />
+            <ImageView android:id="@id/placesBackgroundImage" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/places_map_background" android:scaleType="centerCrop" />
+            <FrameLayout android:layout_gravity="top" android:id="@id/placesHeaderContainer" android:background="@drawable/places_toolbar" android:paddingBottom="@dimen/place_toolbar_padding_sides" android:layout_width="fill_parent" android:layout_height="@dimen/place_toolbar_height" android:paddingStart="@dimen/place_toolbar_padding_sides" android:paddingEnd="@dimen/place_toolbar_padding_sides">
+                <ImageView android:layout_gravity="left" android:id="@id/placesProfileButton" android:layout_width="wrap_content" android:layout_height="@dimen/place_toolbar_button_height" android:layout_marginTop="@dimen/place_toolbar_margin_top" android:src="@drawable/actionbar_profile" android:scaleType="centerInside" android:adjustViewBounds="true" />
+                <ImageView android:layout_gravity="center" android:id="@id/placesToggle" android:layout_width="wrap_content" android:layout_height="@dimen/place_toolbar_toggle_height" android:layout_marginTop="@dimen/place_toolbar_toggle_margin" android:src="@drawable/places_nav_toggle_dummy" android:scaleType="centerInside" android:adjustViewBounds="true" />
+                <ImageView android:layout_gravity="right" android:id="@id/placesSettingsButton" android:layout_width="wrap_content" android:layout_height="@dimen/place_toolbar_button_height" android:layout_marginTop="@dimen/place_toolbar_margin_top" android:src="@drawable/places_settings" android:scaleType="centerInside" android:adjustViewBounds="true" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/placeOverlayContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@id/placesLoadingIndicator" android:layout_width="@dimen/places_progress_bar_dimen" android:layout_height="@dimen/places_progress_bar_dimen" android:indeterminateDrawable="@drawable/places_progress_shape" />
+    </ViewAnimator>
+</merge>
