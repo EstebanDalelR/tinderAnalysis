@@ -6,7 +6,7 @@ class Animations extends Component {
       <div>
         <img
           src={require('./animations.png')}
-          width='90%'
+          width='80%'
           alt='Folder that holds animations'
         />
         <p className='apktext'>
