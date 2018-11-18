@@ -9,6 +9,7 @@ import Findbugs from './FindBugs'
 import MultiThreading from './multiThreading'
 import Permissions from './permissions'
 import DataBinding from './dataBinding'
+import Persistence from './persistence'
 
 class ApkHolder extends Component {
   render () {
@@ -25,6 +26,7 @@ class ApkHolder extends Component {
         <MultiThreading />
         <Permissions />
         <DataBinding />
+        <Persistence />
       </div>
     )
   }

@@ -5,7 +5,7 @@ class Chart extends Component {
     return (
       <div>
         <h2 className='title'>
-          Permissions (only shown relevant)
+          Permissions (only relevant shown)
         </h2>
 
         <div>
