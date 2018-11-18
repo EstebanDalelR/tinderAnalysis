@@ -13,7 +13,7 @@ class Chart extends Component {
           <p>It is widelly used to gather information about the connectivity. For example, this class,
             which uses the ReactiveNetwork library for bindings uses this permission.
           </p>
-          <img src='resources/permissions4.png' />
+          <img src='resources/permissions4.png' alt='code snippet' />
         </div>
 
         <div>
@@ -21,11 +21,11 @@ class Chart extends Component {
           <p>
             It is used in the activity that edits the profile of an user, specifically when a profile picture is edited.
           </p>
-          <img src='resources/permissions0.png' />
+          <img src='resources/permissions0.png' alt='code snippet' />
           <p>
             It is also used in when reading application info, metadata and storage keys.
           </p>
-          <img src='resources/permissions5.png' />
+          <img src='resources/permissions5.png' alt='code snippet' />
         </div>
 
         <div>
@@ -42,7 +42,7 @@ class Chart extends Component {
           <p>
             We can see how it is requested in the lifecycle method onResume in the MainActivity.
           </p>
-          <img src='resources/permissions1.png' />
+          <img src='resources/permissions1.png' alt='code snippet' />
         </div>
 
         <div>
@@ -51,7 +51,7 @@ class Chart extends Component {
             In the following section of code there is a vibration, unfortunattely, it is very difficult to understand what the
             code is actually for.
           </p>
-          <img src='resources/permissions3.png' />
+          <img src='resources/permissions3.png' alt='code snippet' />
         </div>
 
         <div>
@@ -59,7 +59,7 @@ class Chart extends Component {
           <p>
             Users can do purchases like subscribing to tinder gold.
           </p>
-          <img src='resources/permissions2.png' />
+          <img src='resources/permissions2.png' alt='Tinder billing screen' />
         </div>
 
       </div>

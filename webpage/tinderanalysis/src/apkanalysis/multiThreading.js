@@ -12,21 +12,21 @@ class Chart extends Component {
           <p>In the MainActiviy, there is declared a handler 'f14927W', which gets the
               messages from a Looper
           </p>
-          <img src='resources/multiThreading0.png' />
+          <img src='resources/multiThreading0.png' alt='code snippet' />
           <p>This handler is used to add an activity to the message queue, to be run after 10 secs.
               All this if location is refreshing
           </p>
-          <img src='resources/multiThreading1.png' />
+          <img src='resources/multiThreading1.png' alt='code snippet' />
         </div>
         <div>
           <h3>Creating a Thread to track uncaught Exceptions</h3>
-          <img src='resources/multiThreading2.png' />
+          <img src='resources/multiThreading2.png' alt='code snippet' />
           <p>A thread is created to track uncaught exceptions, it is later stoped.</p>
-          <img src='resources/multiThreading3.png' />
+          <img src='resources/multiThreading3.png' alt='code snippet' />
         </div>
         <div>
           <h3>Using Handler & Looper to delay a View after a pause</h3>
-          <img src='resources/multiThreading4.png' />
+          <img src='resources/multiThreading4.png' alt='code snippet' />
           <p>
               On the lifecycle event of pause, there is a Handler created to post delay a View.
           </p>
