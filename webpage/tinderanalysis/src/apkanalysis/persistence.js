@@ -18,9 +18,6 @@ class Chart extends Component {
             They create a class 'C2714a', which exposes all the methods that handle local persistence.
           </p>
         </div>
-        <div>
-          <h3>RxAndroid: Reactive Extensions for Android</h3>
-        </div>
       </div>
     )
   }
