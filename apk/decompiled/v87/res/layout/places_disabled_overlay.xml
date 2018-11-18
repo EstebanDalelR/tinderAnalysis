@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:layout_gravity="bottom|center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/places_disabled_side_margin" android:layout_marginRight="@dimen/places_disabled_side_margin" android:layout_marginBottom="@dimen/places_disabled_bottom_margin">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_places_moma_icon" />
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/ic_places_disabled_margin_bottom" android:src="@drawable/ic_places_disabled" />
+        </FrameLayout>
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_is_off_text_size" android:textColor="@color/black_1" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/places_is_off_top_margin" android:text="@string/places_is_off" android:textAlignment="center" app:customFontStyle="bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_turn_back_on_text_size" android:textColor="@color/black_1" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/places_turn_back_on_top_margin" android:text="@string/places_turn_back_on_to_meet" android:textAlignment="center" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/place_card_button_text_size" android:textColor="@color/white" android:gravity="center" android:id="@id/turnOnPlacesButton" android:background="@drawable/place_rounded_rectangle_gray" android:layout_width="fill_parent" android:layout_height="@dimen/places_disabled_button_height" android:layout_marginTop="@dimen/places_enabled_button_top_margin" android:text="@string/places_turn_places_on" android:textAllCaps="true" app:customFontStyle="semi_bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_never_show_promise_text_size" android:textColor="@color/places_disabled_promise_gray" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/places_never_show_promise_top_margin" android:layout_marginBottom="@dimen/places_never_show_promise_bottom_margin" android:text="@string/places_never_show_now_promise" android:textAlignment="center" />
+    </LinearLayout>
+</FrameLayout>

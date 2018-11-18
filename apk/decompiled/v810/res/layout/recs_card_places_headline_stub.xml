@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom|center|left" android:orientation="vertical" android:id="@id/recs_card_user_content_container" android:padding="@dimen/place_rec_headline_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.places.view.GradientTextView android:textSize="@dimen/place_rec_teaser_new" android:textStyle="bold" android:id="@id/recs_user_is_new_to_place" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_xxsmall" android:text="@string/places_new" android:textAllCaps="true" android:fontFamily="@font/proximanova_bold" />
+    <com.tinder.places.view.PlaceUserRecHeadlineView android:gravity="center_vertical" android:id="@id/recs_card_user_headline" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.tinder.views.CustomTextView android:id="@id/recs_card_user_teaser_1" style="@style/Recs.Card.EdgelessText.Place.Teaser" />
+</LinearLayout>

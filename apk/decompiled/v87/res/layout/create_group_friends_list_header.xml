@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomEditText android:textSize="@dimen/text_s" android:textColor="#ffc2c6cc" android:textColorHint="#ffc2c6cc" android:id="@id/create_group_search_input" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:hint="@string/create_group_search_hint" android:maxLines="1" android:lines="1" android:drawableLeft="@drawable/create_group_ic_search" android:drawablePadding="8.0dip" android:inputType="text" android:imeOptions="actionDone" />
+    <View style="@style/Tindered.Social.SheetSeparator" />
+    <com.tinder.views.CustomTextView android:textSize="15.0dip" android:textColor="#ffc2c6cc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:text="@string/create_group_list_header" app:customFontStyle="bold" />
+</LinearLayout>

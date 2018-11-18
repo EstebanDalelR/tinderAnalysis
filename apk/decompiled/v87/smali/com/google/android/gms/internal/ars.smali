@@ -1,0 +1,35 @@
+.class public interface abstract Lcom/google/android/gms/internal/ars;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lcom/google/android/gms/internal/ib;
+
+
+# annotations
+.annotation runtime Lcom/google/android/gms/internal/axt;
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<I:",
+        "Ljava/lang/Object;",
+        "O:",
+        "Ljava/lang/Object;",
+        ">",
+        "Ljava/lang/Object;",
+        "Lcom/google/android/gms/internal/ib",
+        "<TI;TO;>;"
+    }
+.end annotation
+
+
+# virtual methods
+.method public abstract b(Ljava/lang/Object;)Lcom/google/android/gms/internal/ip;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)",
+            "Lcom/google/android/gms/internal/ip",
+            "<TO;>;"
+        }
+    .end annotation
+.end method

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.views.GroupCustomStatusView style="@style/Tindered.GroupStatusContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.CustomEditText android:textColorHint="#ffdadfe6" android:layout_gravity="center_vertical" android:id="@id/group_custom_status_edit" android:background="@android:color/white" android:layout_width="0.0dip" android:layout_height="wrap_content" android:hint="@string/group_custom_status_hint" android:maxLength="@integer/group_status_max_length" android:layout_weight="1.0" android:inputType="text" android:imeOptions="actionDone" style="@style/Tindered.GroupStatusText" />
+    <ViewSwitcher android:layout_gravity="center_vertical" android:id="@id/group_custom_status_switcher" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip">
+        <ImageButton android:layout_gravity="center" android:id="@id/group_custom_status_close" android:background="@drawable/group_status_ic_close" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/group_status_item_ic_check" />
+    </ViewSwitcher>
+</com.tinder.views.GroupCustomStatusView>

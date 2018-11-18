@@ -1,0 +1,31 @@
+.class public final Lcom/tinder/boost/dialog/g;
+.super Ljava/lang/Object;
+.source "BoostUpdateDialog_MembersInjector.java"
+
+# interfaces
+.implements Ldagger/b;
+
+
+# annotations
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Ljava/lang/Object;",
+        "Ldagger/b",
+        "<",
+        "Lcom/tinder/boost/dialog/BoostUpdateDialog;",
+        ">;"
+    }
+.end annotation
+
+
+# direct methods
+.method public static a(Lcom/tinder/boost/dialog/BoostUpdateDialog;Lcom/tinder/boost/presenter/i;)V
+    .locals 0
+
+    .prologue
+    .line 32
+    iput-object p1, p0, Lcom/tinder/boost/dialog/BoostUpdateDialog;->a:Lcom/tinder/boost/presenter/i;
+
+    .line 33
+    return-void
+.end method

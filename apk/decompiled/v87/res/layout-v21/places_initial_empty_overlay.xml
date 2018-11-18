@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/places_gradient_white_opaque" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/places_disabled_side_margin" android:layout_marginRight="@dimen/places_disabled_side_margin">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_places_mark_individual" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_check_back_soon_size" android:textColor="@color/title_gray" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:text="@string/places_check_back_soon" android:letterSpacing="-0.01" app:customFontStyle="bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/gray_dark" android:gravity="center_horizontal" android:layout_width="@dimen/places_initial_empty_state_info_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_xmed" android:text="@string/places_empty_state_info" android:minLines="3" android:lineSpacingExtra="@dimen/places_line_spacing_extra" />
+    </LinearLayout>
+</FrameLayout>

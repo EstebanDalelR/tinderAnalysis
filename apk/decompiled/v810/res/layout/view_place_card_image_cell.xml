@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="0.0dip" android:layout_height="@dimen/places_teaser_height" android:layout_weight="1.0" android:layout_marginStart="@dimen/places_recs_image_cell_margin" android:layout_marginEnd="@dimen/places_recs_image_cell_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/recsTeaserImageView" android:background="@drawable/places_recs_placeholder_loading" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/newVisitorsTextContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_new_visitors_count_text" android:textColor="@color/white" android:gravity="center" android:id="@id/newVisitorsTextCount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" app:customFontStyle="bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/places_new_text" android:textColor="@color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/places_new" android:textAllCaps="true" app:customFontStyle="bold" />
+    </LinearLayout>
+</FrameLayout>
