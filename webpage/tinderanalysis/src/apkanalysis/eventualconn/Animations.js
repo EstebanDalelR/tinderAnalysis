@@ -5,7 +5,7 @@ class Animations extends Component {
     return (
       <div>
         <img
-          src={require('./eventualconn/animations.png')}
+          src={require('./animations.png')}
           width='90%'
           alt='Folder that holds animations'
         />
