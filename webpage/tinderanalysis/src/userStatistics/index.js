@@ -53,7 +53,7 @@ export class Home extends Component {
             <h3>Demographics</h3>
           </div>
           <div className='col-sm-9'>
-            <img src='resources/Tinder-Listicle5.png' />
+            <img src='resources/Tinder-Listicle5.png' alt='Tinder usage graph' />
             <p>the mayority (38%) of the audience is between 16-34 years old</p>
             <p>62% are male users, while 38% are female users</p>
             <p>Global web index</p>
