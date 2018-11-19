@@ -9,7 +9,7 @@ class Chart extends Component {
         </h2>
         <div>
           <h3>RxAndroid</h3>
-          <p>
+          <p className='apktext'>
             Tinder uses Reactive Extensions for Android module to add the minium
             classes to RxJava in order to have reactive components.
           </p>
