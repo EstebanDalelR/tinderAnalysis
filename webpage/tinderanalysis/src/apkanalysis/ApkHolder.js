@@ -4,7 +4,6 @@ import './ApkHolder.css'
 import APKSize from './APKSize'
 import Logo from './Logo'
 import EventualConnectivity from './EventualConnectivity'
-import PrivacyCode from './PrivacyCode'
 import Codacy from './Codacy'
 import MultiThreading from './multiThreading'
 import Permissions from './permissions'
@@ -23,7 +22,6 @@ class ApkHolder extends Component {
         </h2>
         <APKSize />
         <EventualConnectivity />
-        <PrivacyCode />
         <Codacy />
         <MultiThreading />
         <Permissions />
