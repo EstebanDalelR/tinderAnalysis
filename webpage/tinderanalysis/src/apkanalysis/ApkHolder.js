@@ -11,6 +11,7 @@ import Permissions from './permissions'
 import DataBinding from './dataBinding'
 import Persistence from './persistence'
 import LinkList from './LinkList'
+import Firebase from './Firebase';
 
 class ApkHolder extends Component {
   render () {
@@ -29,6 +30,7 @@ class ApkHolder extends Component {
         <DataBinding />
         <Persistence />
         <LinkList />
+        <Firebase />
       </div>
     )
   }
