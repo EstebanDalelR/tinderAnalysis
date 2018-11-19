@@ -12,13 +12,13 @@ class Chart extends Component {
           <img width='90%'
             src='resources/persistence0.png'
             alt='code snippet' />
-          <p>
+          <p className='apktext'>
             To handle local persistence, tinder uses SQLite, with the pattern of facade.
           </p>
           <img width='90%'
             src='resources/persistence1.png'
             alt='code snippet' />
-          <p>
+          <p className='apktext'>
             They create a class 'C2714a', which exposes all the methods that handle local persistence.
           </p>
         </div>
