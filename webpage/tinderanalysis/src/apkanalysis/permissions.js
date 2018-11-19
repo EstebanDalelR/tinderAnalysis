@@ -47,8 +47,8 @@ class Chart extends Component {
 
         <div>
           <h3>VIBRATE</h3>
-          <p className='apktext'>When a user has a match there is a vibration. This an other cases use the permission to vibrare.
-            In the following section of code there is a vibration, unfortunattely, it is very difficult to understand what the
+          <p className='apktext'>When a user has a match there is a vibration. This an other cases use the permission to vibraye.
+            In the following section of code there is a vibration, unfortunately, it is very difficult to understand what the
             code is actually for.
           </p>
           <img src='resources/permissions3.png' alt='code snippet' width='90%' />
@@ -57,7 +57,7 @@ class Chart extends Component {
         <div>
           <h3>BILLING</h3>
           <p className='apktext'>
-            Users can do purchases like subscribing to tinder gold.
+            Users can do purchases like subscribing to Tinder Gold.
           </p>
           <img src='resources/permissions2.png' alt='Tinder billing screen' width='90%' />
         </div>
