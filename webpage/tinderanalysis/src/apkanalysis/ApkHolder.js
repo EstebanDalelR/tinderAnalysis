@@ -10,6 +10,7 @@ import MultiThreading from './multiThreading'
 import Permissions from './permissions'
 import DataBinding from './dataBinding'
 import Persistence from './persistence'
+import LinkList from './LinkList'
 
 class ApkHolder extends Component {
   render () {
@@ -27,6 +28,7 @@ class ApkHolder extends Component {
         <Permissions />
         <DataBinding />
         <Persistence />
+        <LinkList />
       </div>
     )
   }

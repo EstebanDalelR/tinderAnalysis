@@ -5,11 +5,10 @@ class Findbugs extends Component {
     return (
       <div>
         <h2 className='title'>
-                    Analysis from FindBugs
+          Analysis from <a href='http://findbugs.sourceforge.net/'>FindBugs </a>
         </h2>
         <p className='apktext'>
-                http://findbugs.sourceforge.net/
-                    The apk size has had constant growth over time. Tinder, a 5 year old app has seen a lot of the verionchanges to bundling and the increase in phone capabilities.
+          Findbugs is a free software for, well, finding bugs.
         </p>
       </div>
     )
