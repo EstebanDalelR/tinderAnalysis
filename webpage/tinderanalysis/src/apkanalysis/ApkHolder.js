@@ -11,6 +11,7 @@ import DataBinding from './dataBinding'
 import Persistence from './persistence'
 import LinkList from './LinkList'
 import Firebase from './Firebase'
+import Overdraw from './Overdraw';
 
 class ApkHolder extends Component {
   render () {
@@ -22,13 +23,14 @@ class ApkHolder extends Component {
         </h2>
         <APKSize />
         <EventualConnectivity />
-        <Codacy />
         <MultiThreading />
         <Permissions />
         <DataBinding />
         <Persistence />
+        <Overdraw />
         <LinkList />
         <Firebase />
+        <Codacy />
       </div>
     )
   }
