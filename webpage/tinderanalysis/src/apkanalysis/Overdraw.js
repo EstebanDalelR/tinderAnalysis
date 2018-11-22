@@ -5,15 +5,28 @@ class Overdraw extends Component {
     return (
       <div>
         <h2 className='title'>
-          Analysis from <a href='https://www.codacy.com/'>Codacy </a>
+          Overdraw
         </h2>
         <img
-          src={require('./apkanalyzer/codacy.png')}
+          src={require('./apkanalyzer/overdraw1.jpeg')}
           width='90%'
-          alt='Codacy analysis of v9.11'
+          alt='Overdraw mostly well handled'
+        />
+        <p className='caption'>
+            Overdraw when swiping on a profile. Most of the screen is redrawn.
+        </p>
+        <p className='apktext'>
+            On Tinder, most of the overdraw is correctly handled and minimized.
+            The main experience, swiping, has a lot of unnecessary overdrawing.
+            Not only the picture being rejected on the image is redrawn, but the bottom buttons too, so they could improve that.
+        </p>
+        <img
+          src={require('./apkanalyzer/overdraw2.jpeg')}
+          width='90%'
+          alt='Overdraw mostly well handled'
         />
         <p className='apktext'>
-          Codacy is an static code analyzer. Using this tool on v9.11 we found some problems, specially regarding "error prone" and "unused code". This implies that a refactor might be underway between v9.11 and 10.x or that the developers have not run this kind of tool. It's probably not a crashing bug, but it's worth checking out.
+            On random moments, the whole screen is redrwawn, without user interaction.
         </p>
       </div>
     )
