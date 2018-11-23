@@ -26,6 +26,9 @@ class Wakelocks extends Component {
         <p className='apktext'>
             Tinder, as most apps nowadays, tracks the user. They follow the android recommendation of batching and sending that in the background, using the JobScheduler.
         </p>
+        <p className='apktext'>
+            Interestingly, Tinder does ask for the WAKE_LOCK permission, but in the obfuscated version of the app it's very hard to really know what it does, other than the telemetry.
+        </p>
       </div>
     )
   }
