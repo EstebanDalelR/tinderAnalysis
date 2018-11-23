@@ -18,7 +18,7 @@ class Overdraw extends Component {
         <p className='apktext'>
             On Tinder, most of the overdraw is correctly handled and minimized.
             The main experience, swiping, has a lot of unnecessary overdrawing.
-            Not only the picture being rejected on the image is redrawn, but the bottom buttons too, so they could improve that.
+            Not only the picture being rejected on the image is redrawn, but the bottom buttons too, so they could improve that, specially since it's a red (4x) overdraw.
         </p>
         <img
           src={require('./apkanalyzer/overdraw2.jpeg')}
